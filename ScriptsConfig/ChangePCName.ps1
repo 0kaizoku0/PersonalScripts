@@ -1,7 +1,7 @@
 # Run PowerShell as Administrator
 
 # Set the new computer name
-$NewComputerName = "C300"
+$NewComputerName = "NewComputerName"
 
 # Rename the computer
 Rename-Computer -NewName $NewComputerName -Force -Restart
