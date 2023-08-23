@@ -1,0 +1,1214 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, July 21, 2023 7:57:36 PM
+   Source : \\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\
+     Dest : C:\Users\FTW3\OneDrive\Apple\Music\
+
+    Files : *.m4a
+	    *.lrcs
+	    
+  Options : /TEE /S /DCOPY:DA /COPY:DAT /XC /MT:20 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	*EXTRA Dir        -1	C:\Users\FTW3\OneDrive\Apple\Music\????? -ginjineko-\
+	*EXTRA Dir        -1	
+C:\Users\FTW3\OneDrive\Apple\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe Version)\	*EXTRA Dir        -1	C:\Users\FTW3\OneDrive\Apple\Music\BLACKPINK & Selena Gomez\Ice Cream - Single\
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alejandro Fern†ndez & Christian Nodal\Duele - Single\01 Duele.m4a 76%   91%  100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Andy James\Waking the Dead (feat. Gus G) - Single\01 Waking the Dead (feat. Gus G).m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars, Anderson .Paak & Silk Sonic\Leave The Door Open - Single\01 Leave The Door Open.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Black Reign - EP\01 Mad Hatter.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Black Reign - EP\02 Carry On.m4a100%  
+	    Newer     		  14.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Black Reign - EP\03 Not Ready to Die (From _Call of t.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Black Reign - EP\04 Jade Helm.m4a100%  
+	    Newer     		  11.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\01 Critical Acclaim.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\02 Almost Easy.m4a100%  
+	    Newer     		  10.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\03 Scream.m4a100%  
+	    Newer     		  12.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\04 Afterlife.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\05 Gunslinger.m4a100%  
+	    Newer     		  10.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\06 Unbound (The Wild Ride).m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\07 Brompton Cocktail.m4a100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\08 Lost.m4a100%  
+	    Newer     		  15.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\09 A Little Piece of Heaven.m4a100%  
+	    Newer     		  13.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\10 Dear God.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Avenged Sevenfold (Bonus Track Version)\11 Almost Easy (Jam-Along Version).m4a100%  
+	    Newer     		  11.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\01 Beast and the Harlot.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\02 Burn It Down.m4a100%  
+	    Newer     		  12.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\03 Blinded In Chains.m4a100%  
+	    Newer     		  10.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\04 Bat Country.m4a100%  
+	    Newer     		  11.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\05 Trashed and Scattered.m4a100%  
+	    Newer     		  11.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\06 Seize the Day.m4a100%  
+	    Newer     		  14.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\07 Sidewinder.m4a 55%   69%   90%  100%  
+	    Newer     		  14.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\08 The Wicked End.m4a100%  
+	    Newer     		  18.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\09 Strength of the World.m4a100%  
+	    Newer     		  13.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\10 Betrayed.m4a100%  
+	    Newer     		  17.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\City of Evil\11 M.I.A..m4a100%  
+	    Newer     		  10.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\01 Shepherd of Fire.m4a100%  
+	    Newer     		  10.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\02 Hail to the King.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\03 Doing Time.m4a100%  
+	    Newer     		  13.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\04 This Means War.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\05 Requiem.m4a100%  
+	    Newer     		  10.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\06 Crimson Day.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\07 Heretic.m4a100%  
+	    Newer     		  13.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\08 Coming Home.m4a100%  
+	    Newer     		  11.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\09 Planets.m4a100%  
+	    Newer     		  13.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\10 Acid Rain.m4a100%  
+	    Newer     		  10.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Hail to the King (Deluxe Edition)\12 St. James (Bonus Track).m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\01 Nightmare.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\02 Welcome to the Family.m4a100%  
+	    Newer     		  10.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\03 Danger Line.m4a100%  
+	    Newer     		  13.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\04 Buried Alive.m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\05 Natural Born Killer.m4a100%  
+	    Newer     		  10.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\06 So Far Away.m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\07 God Hates Us.m4a100%  
+	    Newer     		  14.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\08 Victim.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\09 Tonight the World Dies.m4a100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\10 Fiction.m4a100%  
+	    Newer     		  21.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\11 Save Me.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Nightmare (Deluxe Edition)\13 Lost It All (Non-Album Track).m4a100%  
+	    Newer     		  13.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Dear God - Single\01 Dear God.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Dear God - Single\02 Crossroads.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\01 Game Over.m4a100%  
+	    Newer     		  11.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\02 Mattel.m4a100%  
+	    Newer     		  12.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\03 Nobody.m4a100%  
+	    Newer     		  12.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\04 We Love You.m4a100%  
+	    Newer     		  15.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\05 Cosmic.m4a100%  
+	    Newer     		  13.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\06 Beautiful Morning.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\07 Easier.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\08 G.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\09 (O)rdinary.m4a  0%   30%   61%   84%   92%  100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\10 (D)eath.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Life Is But a Dream.\11 Life Is But a Dream....m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Cole Rolland\Cole Rolland Remixes Vol. 2\01 Blank Space (feat. Dillon Conneal.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Cole Rolland\Cole Rolland Remixes Vol. 2\02 Every Time We Touch (feat. Lauren.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Cole Rolland\Cole Rolland Remixes Vol. 2\03 Drown (feat. Zackary David).m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Cole Rolland\Cole Rolland Remixes Vol. 2\04 Bye Bye Bye (feat. Dillon Conneal.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Cole Rolland\Cole Rolland Remixes Vol. 2\05 See You Again (Feat. Garrett Garf.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Cole Rolland\Cole Rolland Remixes Vol. 2\06 Linkin Park Medley (feat. Zackary.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Cole Rolland\Cole Rolland Remixes Vol. 2\07 What Is Love (feat. Brian Storm).m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Cole Rolland\Cole Rolland Remixes Vol. 2\08 Uptown Funk (feat. Zackary David.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Cole Rolland\Cole Rolland Remixes Vol. 2\09 Stay the Night (feat. Lauren Babi.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Cole Rolland\Cole Rolland Remixes Vol. 2\10 Misery Business (Feat. Lauren Bab.m4a100%  
+	    Newer     		  16.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\01 The Stage.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\02 Paradigm.m4a100%  
+	    Newer     		  13.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\03 Sunny Disposition.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\04 God Damn.m4a100%  
+	    Newer     		  11.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\05 Creating God.m4a100%  
+	    Newer     		  11.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\06 Angels.m4a100%  
+	    Newer     		  10.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\07 Simulation.m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\08 Higher.m4a  0%   63%   71%  100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\09 Roman Sky.m4a100%  
+	    Newer     		  12.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\10 Fermi Paradox.m4a100%  
+	    Newer     		  30.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\11 Exist.m4a 78%  100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\12 Dose.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\13 Retrovertigo.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\14 Malague§a Salerosa.m4a100%  
+	    Newer     		   5.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\15 Runaway (feat. Warren Fitzgerald).m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\16 As Tears Go By.m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\17 Wish You Were Here.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\18 God Only Knows.m4a100%  
+	    Newer     		  18.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\19 The Stage (Live from London).m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\20 Paradigm (Live from London).m4a100%  
+	    Newer     		  18.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\21 Sunny Disposition (Live from Lond.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\The Stage (Deluxe Edition)\22 God Damn (Live from London).m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Carlos Rivera & Maluma\100 A§os - Single\01 100 A§os.m4a100%  
+	    Newer     		   3.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\01 To End the Rapture.m4a100%  
+	    Newer     		  11.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\02 Turn the Other Way.m4a100%  
+	    Newer     		  10.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\03 Darkness Surrounding.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\04 The Art of Subconscious Illusion.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\05 We Come Out at Night.m4a  0%   80%  100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\06 Lips of Deceit.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\07 Warmness On the Soul.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\08 An Epic of Time Wasted.m4a100%  
+	    Newer     		   2.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\09 Breaking Their Hold.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\10 Forgotten Faces.m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\11 Thick and Thin.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\12 Streets.m4a100%  
+	    Newer     		  14.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Sounding the Seventh Trumpet\13 Shattered By Broken Dreams.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\01 Mala Fama.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\02 Oye Pablo.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\03 Sodio.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\04 Polo A Tierra (feat. Trapical).m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\05 Final Feliz.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\06 Lo Que No Sabes.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\07 So Good.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\08 Valientes.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\09 Dos Extra§os.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\10 Siento Amor.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\11 Mala Fama (Remix).m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Danna Paola\SIE7E +\12 So Good (Remix).m4a  0%    8%   24%   64%  100%  
+	    New File  		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\01 Before the Damned.m4a100%  
+	    New File  		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\02 Two Weeks.m4a100%  
+	    New File  		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\03 Undone.m4a100%  
+	    New File  		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\04 Forever in Your Hands.m4a100%  
+	    New File  		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\05 Chiron.m4a100%  
+	    New File  		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\06 Days Without.m4a100%  
+	    New File  		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\07 A Song for the Hopeless.m4a100%  
+	    New File  		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\08 Do Not Obey.m4a100%  
+	    New File  		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\09 Relinquish.m4a100%  
+	    New File  		   5.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\10 Overcome.m4a100%  
+	    New File  		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\Overcome\11 Believe in Nothing.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\01 Down Through the Ages.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\01 ®QuÇ Pides T£_.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\02 You Can't Fill My Shadow.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\03 Stand Up.m4a100%  
+	    Newer     		   5.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\04 A Call To All Non-Believers.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\05 Asking Too Much.m4a100%  
+	    Newer     		   1.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\06 Intro.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\07 Just Moments In Time.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\02 A Gritos de Esperanza.m4a  0%   10%   85%   95%  100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\08 What If I Was Nothing.m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\03 Sin Miedo a Nada (con Amaia Monte.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\09 Sing For Liberty.m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\04 Hay Que Ver.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\10 Not Fading.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\05 Aunque No Te Pueda Ver.m4a100%  
+	    Newer     		   5.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\11 Calculating Loneliness.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\A War You Cannot Win\12 A War You Cannot Win.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\06 Dame Tu Aire.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\07 Cuanto Antes.m4a100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\08 Fantasia O Realidad.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\09 Viajar Contigo.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\10 Sigo Buscando.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\11 Siempre en Mi Mente.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\12 Temblando.m4a100%  
+	    Newer     		  10.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\13 La Estatua del Jardin Botanico.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\14 Esos Ojos Negros.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Alex Ubago\Siempre en Mi Mente\15 Sigo Aqu° (Treasure Planet) - Tem.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Daddy Yankee & Marc Anthony\De Vuelta Pa' La Vuelta - Single\01 De Vuelta Pa' La Vuelta.m4a100%  
+	    Newer     		   3.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\01 Waking the Fallen.m4a  0%   26%   65%   91%  100%  
+	    Newer     		   9.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\02 Unholy Confessions.m4a 82%  100%  
+	    Newer     		  11.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\03 Chapter Four.m4a100%  
+	    Newer     		  12.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\04 Remenissions.m4a100%  
+	    Newer     		  11.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\05 Desecrate Through Reverence.m4a100%  
+	    Newer     		  10.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\06 Eternal Rest.m4a100%  
+	    Newer     		  13.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\07 Second Heartbeat.m4a100%  
+	    Newer     		  12.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\08 Radiant Eclipse.m4a100%  
+	    Newer     		  17.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\09 I Won't See You Tonight, Pt. 1.m4a 89%  100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\10 I Won't See You Tonight, Pt. 2.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\11 Clairvoyant Disease.m4a100%  
+	    Newer     		  15.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\12 And All Things Will End.m4a100%  
+	    Newer     		   5.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\13 Waking the Fallen_ Resurrected.m4a100%  
+	    Newer     		  12.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\14 Second Heartbeat (Alternate Versi.m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\15 Chapter Four (Demo).m4a100%  
+	    Newer     		  12.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\16 Remenissions (Demo).m4a100%  
+	    Newer     		  12.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\17 I Won't See You Tonight, Pt. 1 (D.m4a100%  
+	    Newer     		  10.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\18 I Won't See You Tonight, Pt. 2 (D.m4a100%  
+	    Newer     		  14.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\19 Intro _ Chapter Four (Live In Ven.m4a100%  
+	    Newer     		  11.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\20 Desecrate Through Reverence (Live.m4a100%  
+	    Newer     		  10.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\21 Eternal Rest (Live In Pomona).m4a  0%    9%   55%   73%   91%  100%  
+	    Newer     		  10.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\22 Unholy Confessions (Live In Ventu.m4a100%  
+	    Newer     		  14.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Avenged Sevenfold\Waking the Fallen_ Resurrected (Deluxe E\23 Second Heartbeat (Live In Ventura.m4a100%  
+	    Newer     		   3.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\01 Now Let Them Tremble.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\02 .For We Are Many.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\03 The Last Time.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\04 Some of the People, All of the Ti.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\05 Won't Go Quietly.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\06 Aggressive Opposition.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\07 From the Outside.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\08 Dead Wrong.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\09 Faithless.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\10 Hold On.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\11 Keepers of Fellow Man.m4a100%  
+	    Newer     		  10.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\For We Are Many\12 The Waiting One.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\01 This Probably Won_t End Well.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\02 No Knock.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\03 Divide.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\04 The Greatest Generation.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\05 For You.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\06 A Reason for Me to Fight.m4a  0%   18%   50%   56%   63%  100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\07 Victory Lap.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\08 Pernicious.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\09 Bite My Tongue.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\10 Fiat Empire.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\11 Tru-Kvlt-Metal.m4a100%  
+	    Newer     		  13.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\All That Remains\The Order of Things\12 Criticism and Self Realization.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\01 King James.m4a100%  
+	    Newer     		  11.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\02 Gory Head Stump 2006 the Pageant.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\03 The Fairy and the Devil.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\04 Buddy Berkman's Ballad.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\05 Mad Monster Party.m4a100%  
+	    Newer     		  18.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\06 Soothsayer (dedicated to Aunt Suz.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\07 Col. Austin Vs. Col. Sanders A.K..m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\08 We Can Rebuild Him.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\09 Electronic Slight of Hand.m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\10 Mecha Gigan.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Buckethead\Crime Slunk Scene\11 Slunk Parade A.K.A. Freaks In the.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Banda MS de Sergio Liz†rraga & Snoop Dog\QuÇ Maldici¢n - Single\01 QuÇ Maldici¢n.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Banda MS de Sergio Liz†rraga\El Color de Tus Ojos (Versi¢n Ac£stica)\01 El Color de Tus Ojos (Versi¢n Ac£.m4a100%  
+	    Newer     		   4.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Charlie Parra del Riego\Covers 2018 - EP\01 Dragon Ball Ultimate Battle Goku.m4a  0%   30%   82%  100%  
+	    Newer     		   4.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Charlie Parra del Riego\Covers 2018 - EP\02 Dragon Ball Super Limit Break X S.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Charlie Parra del Riego\Covers 2018 - EP\03 Dragon Ball Super Ending 10 Goes.m4a100%  
+	    Newer     		   5.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Charlie Parra del Riego\Covers 2018 - EP\04 One Piece Opening Goes Metal Hard.m4a100%  
+	    Newer     		   4.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Charlie Parra del Riego\Covers 2018 - EP\05 Kenny Omega Theme Goes Metal Devi.m4a100%  
+	    Newer     		   5.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Charlie Parra del Riego\Covers 2018 - EP\06 Tetsuya Naito Theme Stardust Goes.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\01 El Amor Descansa (En un Jacuzzi).m4a100%  
+	    Newer     		  10.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\02 Marlon Brando Ya Muri¢.m4a100%  
+	    Newer     		   9.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\03 T£ y la Borracha Noche.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\04 Tan Feliz Como los P†jaros.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\05 (AC_DC) en la Esquina de Tu Boca.m4a100%  
+	    Newer     		   9.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\06 Perd¢n por la Extra§a Manera (De.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\07 Flaca (Don't Go Home).m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\08 RegresÇ al Burdel por Ti.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\09 Dulce Canci¢n (De Chocolate Con C.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\10 Y Yo Con Ganas (De Beberme el Sue.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Armando Palomas\De Regreso al Burdel de la Soledad\11 Gatos, Perros y Este Asqueroso Bl.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\01 Abr†zame.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\02 U Got My Love.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\03 Me Basto.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\04 Todo Cambi¢.m4a  0%    7%   59%   67%  100%  
+	    Newer     		  10.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\05 Coleccionista de Canciones.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\06 Yo Quiero.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\07 Me da Igual.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\08 Va para Ti.m4a100%  
+	    Newer     		   5.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\09 Sin Tu Amor.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\10 Perderte de Nuevo.m4a100%  
+	    Newer     		   5.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\11 Nanga Ti Feo.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\12 Abr†zame (Versi¢n Ac£stica).m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\13 ColÇcci¢nista de Canci¢nes (Versi.m4a100%  
+	    Newer     		   5.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\14 U Got My Love (Versi¢n Ac£stico).m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Camila\Todo Cambi¢ (Edici¢n Especial)\15 Solo para Ti.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\01 Your Betrayal.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\02 Fever.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\03 The Last Fight.m4a100%  
+	    Newer     		  10.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\04 A Place Where You Belong.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\05 Pleasure and Pain.m4a100%  
+	    Newer     		  12.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\06 Alone.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\07 Breaking Out, Breaking Down.m4a100%  
+	    Newer     		  10.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\08 Bittersweet Memories.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\09 Dignity.m4a  0%   63%   84%  100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\10 Begging for Mercy.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\11 Pretty On the Outside.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\12 Fever (Live At XFM).m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\13 The Last Fight (Live At XFM).m4a100%  
+	    Newer     		  10.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Fever (Tour Edition)\14 Bittersweet Memories (Live At XFM.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\01 Breaking Point.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\02 Truth Hurts.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\03 Temper Temper.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\04 P.O.W..m4a100%  
+	    Newer     		  10.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\05 Dirty Little Secret.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\06 Leech.m4a100%  
+	    Newer     		  10.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\07 Dead To the World.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\08 Riot.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\09 Saints & Sinners.m4a100%  
+	    Newer     		  11.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\10 Tears Don't Fall, Pt. 2.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\11 Livin' Life (On the Edge of a Kni.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\12 Not Invincible.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\13 Whole Lotta Rosie (Live at BBC Ra.m4a100%  
+	    Newer     		  10.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Temper Temper (Deluxe Version)\14 Scream Aim Fire (Live at BBC Radi.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\01 Contigo.m4a  0%   24%   36%   61%   73%   98%  100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\02 Solo un Segundo.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\03 Caraluna.m4a100%  
+	    Newer     		  10.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\04 Tabaco y Chanel.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\05 Besela Ya.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\06 Pasos de Gigantes.m4a100%  
+	    Newer     		  11.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\07 Cr¢nica de una Immigracion Anunci.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\08 De Aqui a Que Salga el Sol.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\09 Feliz Conmigo.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\10 Lo Mismo Que Yo.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\11 Guerras Perdidas.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\12 Mi Primer Millon.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\13 De Aqui a Que Salga el Sol (Remix.m4a100%  
+	    Newer     		  16.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\14 Contigo (Remix Version).m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\15 Navegantes.m4a100%  
+	    Newer     		   4.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\16 Sed de Que (AKA Bendito Pais) [Au.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Grandes Exitos (Bonus Version)\17 Sed de Que (AKA Bendito Pais).m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\BLACKPINK & Selena Gomez\Ice Cream (with Selena Gomez) - Single\01 Ice Cream (with Selena Gomez).m4a100%  
+	    Newer     		  10.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\01 As° Es la V°da.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\02 Angel.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\03 Mentirosa.m4a  0%   93%  100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\04 La Que Se Fue.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\05 Sabor a Chocolate.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\06 Aguacero.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\07 De la Noche a la Ma§ana.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\08 Lo Que Andabamos Buscando.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\09 P°ntame de Azul.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\10 Vamos.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\11 La Limpia.m4a100%  
+	    Newer     		  10.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\12 A donde Vayas.m4a100%  
+	    Newer     		  10.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\13 Yo Soy Igual Que T£.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\14 Amores Prohibidos.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\15 La Historia Sin Fin.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\16 La Condena.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\17 Durmiendo Con la Luna.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Elefante êxitos\18 El Abandonao (Version Censurada).m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\01 The Heart Wants What It Wants.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\02 Come & Get It.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\03 Love You Like a Love Song.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\04 Tell Me Something I Don't Know.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\05 Who Says.m4a  0%   59%  100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\06 My Dilemma 2.0.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\07 Round & Round.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\08 Forget Forever (STúFAN Remix).m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\09 Slow Down.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\10 A Year Without Rain (Dave AudÇ Ra.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\11 Naturally (Dave AudÇ Radio Remix).m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\12 M†s (More - Spanish Version).m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\13 Bidi Bidi Bom Bom.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\14 Falling Down.m4a100%  
+	    Newer     		   5.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\For You\15 Do It.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\01 A chillar a otra parte.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\02 QuÇdate.m4a 63%   87%  100%  
+	    Newer     		   5.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\03 Gracias por tu amor.m4a100%  
+	    Newer     		   5.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\04 No podemos continuar.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\05 Loco.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\06 Dile.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\07 Por amores como t£.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\08 Ojal† que te mueras.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\09 Como le hago.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\10 En lo m†s alto.m4a  0%   60%   90%  100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\11 Quiero que me quieras.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\12 Mitad y mitad.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\13 No tengas miedo de llorar.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\14 Mil noches.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\15 Ay£dame a olvidar.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\16 Y tu porque no.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\17 Pero se fuÇ.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\18 Humillate.m4a100%  
+	    Newer     		   5.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\19 Perdoname.m4a100%  
+	    Newer     		   5.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\iCollection\20 Peque§o amor.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-01 Titanium.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-02 God Must Have Spent.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-03 Glycerine.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-04 This Year's Love.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-05 Want U Back (feat. Hannah Trigw.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-06 Call Me Maybe.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-07 One More Night.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-08 We Are Never Ever Getting Back.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-09 Lego House.m4a100%  
+	    Newer     		   4.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-10 I'll Be There for You (Friends.m4a  0%   10%   51%   82%   93%  100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-11 Name.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-12 Locked Out of Heaven.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-13 Use Somebody (feat. Hannah Trig.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-14 Drive.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-15 I Knew You Were Trouble.m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-16 Ho Hey.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-17 Daylight.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-18 It's a Beautiful Day.m4a100%  
+	    Newer     		  10.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\1-19 Mirrors (feat. Fifth Harmony).m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-01 When I Was Your Man (feat. Fift.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-02 Radioactive.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-03 A Thousand Years.m4a100%  
+	    Newer     		   5.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-04 The Age of Worry.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-05 Let Her Go (feat. Hannah Trigwe.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-06 Roar (feat. Bea Miller).m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-07 We Can't Stop (feat. Bea Miller.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-08 ≠Corre!.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-09 Stay (feat. Mandy Lee).m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-10 Demons (feat. Jennel Garcia).m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-11 My Sacrifice.m4a  0%   92%  100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-12 Story of My Life.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-13 Wake Me Up (feat. Jennel Garcia.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-14 Wrecking Ball (feat. Diamond Wh.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-15 Unwritten (feat. Diamond White).m4a100%  
+	    Newer     		   5.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-16 Happy.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-17 Wanted.m4a 50%   63%   69%   76%   82%  100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-18 Counting Stars _ The Monster (f.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\2-19 Say Something (feat. CRS).m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-01 The Scientist (feat. Hannah Tri.m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-02 All of Me.m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-03 Not a Bad Thing.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-04 Your Body Is a Wonderland.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-05 Waves.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-06 A Sky Full of Stars.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-07 Tears in Heaven.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-08 Am I Wrong.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-09 Blame.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-10 Stay With Me.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-11 Fire and Rain.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-12 Latch (feat. Lia Marie Johnson).m4a  0%    6%   53%   60%   74%  100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-13 Hemorrhage (In My Hands).m4a100%  
+	    Newer     		   4.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-14 Blackbird.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-15 Thinking Out Loud.m4a100%  
+	    Newer     		  11.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-16 Everything.m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-17 Game of Thrones (Main Theme).m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Cover Sessions, Vol. 3\3-18 I'm Not the Only One.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\01 Es Tan Bello.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\02 EnsÇ§ame a Olvidarte.m4a100%  
+	    Newer     		   5.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\03 Te Voy a Conquistar.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\04 Y Todo para QuÇ.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\05 DÇjame Amarte.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\06 D¢nde Est†s.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\07 Por un Beso.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\08 No Te Vayas.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\09 Hurac†n.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\10 Vivir Sin Ellas.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\11 Est†s Que Te Pelas.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\12 Contigo.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\13 Eres Mi Droga.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\14 Ay£dame.m4a  0%   89%  100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\15 Un Desenga§o.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\16 Amor Maldito.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\17 Coqueta.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\18 Por QuÇ Ten°as Que Ser Tu.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\19 Perdedor.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\La Historia\20 El Amigo Que Se Fue.m4a100%  
+	    Newer     		  13.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\01 Torn.m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\02 My Own Prison.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\03 What's This Life For.m4a100%  
+	    Newer     		  10.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\04 One.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\05 Are You Ready_.m4a100%  
+	    Newer     		  11.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\06 Higher.m4a100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\07 With Arms Wide Open.m4a100%  
+	    Newer     		  11.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\08 What If.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\09 One Last Breath.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\10 Don't Stop Dancing.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\11 Bullets.m4a100%  
+	    Newer     		  10.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\12 My Sacrifice.m4a100%  
+	    Newer     		  11.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Greatest Hits\13 Weathered.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\01 Grenade.m4a  0%   13%   53%   66%  100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\02 Just the Way You Are.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\03 Our First Time.m4a100%  
+	    Newer     		   5.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\04 Runaway Baby.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\05 The Lazy Song.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\06 Marry You.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\07 Talking to the Moon.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\08 Liquor Store Blues (feat. Damian.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\09 Count On Me.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\10 The Other Side (feat. CeeLo Green.m4a 51%   71%  100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\11 Just The Way You Are (feat. Lupe.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bruno Mars\Doo-Wops & Hooligans (Deluxe)\12 Somewhere In Brooklyn.m4a100%  
+	    Newer     		   9.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\01 Scream Aim Fire.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\02 Eye of the Storm.m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\03 Hearts Burst Into Fire.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\04 Waking the Demon.m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\05 Disappear.m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\06 Deliver Us from Evil.m4a100%  
+	    Newer     		  12.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\07 Take It Out On Me.m4a100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\08 Say Goodnight.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\09 End of Days.m4a  0%   42%   64%   85%  100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\10 Last to Know.m4a100%  
+	    Newer     		  13.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\11 Forever and Always.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\12 Road to Nowhere.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\13 Watching Us Die Tonight.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\14 One Good Reason Why.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\Scream Aim Fire (Deluxe Edition)\15 Ashes of the Innocent.m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\01 Demons.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\02 Girl I Know.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\03 Crossroads.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\04 Flash of the Blade.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\05 Until the End.m4a100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\06 Tension.m4a100%  
+	    Newer     		  11.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\07 Walk.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\08 The Fight.m4a100%  
+	    Newer     		  11.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\09 Dancing Dead.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\10 Almost Easy (Chris Lord-Alge Mix).m4a100%  
+	    Newer     		  11.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\11 Afterlife (Alternate Version).m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\12 St. James.m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\13 Set Me Free.m4a100%  
+	    Newer     		  10.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\14 4_00 A.M..m4a  0%   19%   38%   48%   77%  100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\15 Lost It All.m4a100%  
+	    Newer     		   5.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Diamonds In the Rough (Remastered)\16 Paranoid.m4a100%  
+	    Newer     		   5.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\01 Intro (feat. Apocalyptica).m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\02 Her Voice Resides.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\03 4 Words (To Choke Upon).m4a100%  
+	    Newer     		  12.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\04 Tears Don't Fall.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\05 Suffocating Under Words Of Sorrow.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\06 Hit The Floor.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\07 All These Things I Hate (Revolve.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\08 Room 409.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\09 The Poison.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\10 10 Years Today.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\11 Cries In Vain.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\12 Spit You Out.m4a100%  
+	    Newer     		  13.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\13 The End.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\14 Seven Days.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\15 My Fist Your Mouth Her Scars.m4a100%  
+	    Newer     		  13.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\16 Welcome Home (Sanitarium).m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Bullet for My Valentine\The Poison (Deluxe Version)\17 Tears Don't Fall (Acoustic Versio.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\01 Soy Mujer (HA-ASH Primera Fila -.m4a  0%   11%   22%   56%   91%  100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\02 EstÇs Donde EstÇs (HA-ASH Primera.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\03 Te Dejo en Libertad (HA-ASH Prime.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\04 Perd¢n, Perd¢n (HA-ASH Primera Fi.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\05 Dos Copas de M†s (HA-ASH Primera.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\06 QuÇ Hago Yo_ (HA-ASH Primera Fila.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\07 No Tiene Devoluci¢n (HA-ASH Prime.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\08 QuÇ M†s Da (feat. Joy Huerta & Ju.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\09 Ex de Verdad (HA-ASH Primera Fila.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\10 No Te Quiero Nada (feat. Axel) [H.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\11 SÇ Que Te Vas (feat. Matisse) [HA.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\12 Lo Aprend° de Ti (HA-ASH Primera.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\13 Odio Amarte (HA-ASH Primera Fila.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\14 His Eyes on the Sparrow (HA-ASH P.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\15 QuÇdate Lejos (feat. Maluma) [HA-.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\16 No Soy Yo.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\17 Pedazos.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\18 Te Quedaste (Versi¢n Ac£stica).m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\19 QuÇ HarÇ Con Este Amor_ (Versi¢n.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\20 Si Pruebas una Vez (Versi¢n Ac£st.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\21 Ex de Verdad (Versi¢n Big Band).m4a  0%   36%   97%  100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\22 Perd¢n, Perd¢n (Versi¢n Big Band).m4a 95%  100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\HA-ASH Primera Fila - Hecho Realidad\23 At Last (Versi¢n Big Band).m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-01 Como Quien Pierde una Estrella.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-02 Nube Viajera.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-03 Loco.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-04 Cuando Yo Quer°a Ser Grande.m4a100%  
+	    Newer     		   5.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-05 Mo§o Negro.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-06 M†talas.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-07 Brumas.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-08 Si T£ No Vuelves.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-09 Ni§a Amada M°a.m4a100%  
+	    Newer     		   5.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-10 Piel de Ni§a.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-11 La Mitad Que Me Faltaba.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-12 Necesito Olvidarla.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-13 Tantita Pena.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-14 Que Seas Muy Feliz.m4a100%  
+	    Newer     		   4.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-15 Cascos Ligeros.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-16 Si He Sabido Amor.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-17 Paso del Norte.m4a100%  
+	    Newer     		  16.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-18 Popurr° Juan Gabriel (En Vivo).m4a  0%    6%   18%   43%   49%   56%   74%   93%   99%  100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-19 QuÇ Pregunta Muchacho (with Vic.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\1-20 Las Ma§anitas.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-01 Me DediquÇ a Perderte.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-02 Si T£ Supieras.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-03 No Se Me Hace F†cil.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-04 No SÇ Olvidar.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-05 QuÇ Voy a Hacer Con Mi Amor.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-06 Eres.m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-07 En el Jard°n.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-08 Quisiera.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-09 Canta Coraz¢n.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-10 Te Voy a Perder.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-11 H†blame.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-12 QuÇ L†stima.m4a100%  
+	    Newer     		  10.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-13 QuiÇreme.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-14 Yo Nac° para Amarte.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-15 Me Estoy Enamorando.m4a100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-16 Est†s Aqu°.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\2-17 Amor Gitano.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-01 Abr†zame.m4a  0%    7%   14%   28%   57%   71%   85%  100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-02 Nadie, Simplemente Nadie.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-03 Si Dios Me Quita la Vida.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-04 Perd¢n (with Alejandro Fern†nde.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-05 No.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-06 Contigo Aprend°.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-07 A Pesar de Todo.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-08 Noche de Ronda.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-09 Reg†lame Esta Noche.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-10 La Gloria Eres T£.m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-11 Piensa en M°.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-12 Cuando Ya No Me Quieras.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-13 El D°a Que Me Quieras.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-14 Tu Desvario.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-15 Ingrato Amor.m4a100%  
+	    Newer     		  10.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-16 Granada.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-17 J£rame.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-18 Perfume de Gardenia (with Aleja.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-19 El Andariego.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Lo Esencial de Alejandro Fern†ndez\3-20 Amor de los Dos (with Alejandro.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\01 Querida.m4a  0%   80%  100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\02 Se Me Olvid¢ Otra Vez.m4a100%  
+	    Newer     		  17.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\03 Hasta Que Te Conoc° (feat. Joy).m4a 90%  100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\04 La Diferencia (feat. Vicente Fern.m4a100%  
+	    Newer     		  11.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\05 Si Quieres.m4a100%  
+	    Newer     		  13.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\06 As° Fue (feat. Isabel Pantoja).m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\07 Yo Te Bendigo Mi Amor (feat. Davi.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\08 Caray (feat. Alejandra Guzm†n).m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\09 Siempre En Mi Mente (feat. Espino.m4a100%  
+	    Newer     		  12.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\10 Abr†zame Muy Fuerte.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\11 Te Lo Pido Por Favor (feat. Luis.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\12 Ver†s (feat. JosÇ Mar°a Napole¢n).m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\13 Amor Es Amor (feat. Antonio Orozc.m4a100%  
+	    Newer     		  12.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\14 Pero Que Necesidad (feat. Emmanue.m4a100%  
+	    Newer     		  12.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\15 Ya No Vivo Por Vivir (feat. Natal.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\16 Vienes O Voy (feat. Fifth Harmony.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\17 Te Quise Olvidar (feat. Alejandro.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\18 Yo Te Recuerdo (Version Salsa).m4a100%  
+	    Newer     		   4.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\19 No Discutamos.m4a100%  
+	    Newer     		   9.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\20 La Frontera.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\21 Te Recuerdo Dulcemente.m4a  0%   23%   35%   71%   83%   95%  100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\22 Te Sigo Amando.m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\23 L†grimas Y Lluvia (feat. Joan Seb.m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\24 Yo No SÇ Que Me Pas¢ (feat. Carlo.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\25 Ya Lo SÇ Que T£ Te Vas.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\26 Amor Del Alma (feat. JosÇ Felicia.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\27 No Vale La Pena (feat. Mar°a JosÇ.m4a100%  
+	    Newer     		  12.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\28 Muriendo De Amor (feat. Miguel Po.m4a100%  
+	    Newer     		  10.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\29 Luna Llena (feat. Bustamante).m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\30 Yo Te Perdono (feat. Ana Gabriel).m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\31 Yo SÇ Que Est† En Tu Coraz¢n (fea.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Los D£o - Colecci¢n Completa (Vol. 1 + V\32 No Tengo Dinero.m4a100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\01 Super '70S.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\02 Pink Champagne Sparkle.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\03 Falling Down.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\04 Beautiful, Strange.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\05 Turn Away.m4a100%  
+	    Newer     		  10.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\06 I Remember Stevie.m4a100%  
+	    Newer     		  13.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\07 Cry for You.m4a100%  
+	    Newer     		   4.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\08 Farmer Sez.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\09 Electric Gypsy.m4a  0%   10%   31%   84%   95%  100%  
+	    Newer     		   9.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\10 It's Getting Better.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\11 That Was Then, This Is Now.m4a100%  
+	    Newer     		   5.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\12 Groove or Die.m4a100%  
+	    Newer     		  11.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\13 A Night to Remember.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\14 Carpe Diem.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\15 Donna Lee (Twist -Live!).m4a100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\That Was Then, This Is Now\16 Slips Away (Dedicated to George H.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\01 Oiga.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\02 Rumores.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\03 Me Gustas.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\04 Un Idiota.m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\05 Eso Y M†s.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\06 Carrera de la Barranca.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\07 Tatuajes.m4a100%  
+	    Newer     		   5.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\08 M†s All† Del Sol.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\09 Maracas.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\10 Una Noche M†s.m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\11 Secreto De Amor.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\12 Mi C¢mplice.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\13 Te Ir† Mejor Sin M°.m4a  0%   60%   67%  100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\14 Veinticinco Rosas.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Mi MÇxico Querido\15 Venganza De Tina.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\01 Into the Night (feat. Chad Kroege.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\02 This Boy's Fire (feat. Jennifer L.m4a100%  
+	    Newer     		  10.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\03 Smooth (feat. Rob Thomas).m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\04 Maria Maria (feat. The Product G&.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\05 Oye Como Va.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\06 Black Magic Woman.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\07 Evil Ways.m4a100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\08 Coraz¢n Espinado (feat. Man†, Man.m4a100%  
+	    Newer     		  11.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\09 Europa (Earth's Cry Heaven's Smil.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\10 The Game of Love (feat. Tina Turn.m4a100%  
+	    Newer     		  10.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\11 Put Your Lights On (feat. Everlas.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\12 Why Don't You & I (feat. Alex Ban.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\13 Everybody's Everything.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\14 Just Feel Better (feat. Steven Ty.m4a100%  
+	    Newer     		  10.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\15 Samba Pa' Ti.m4a100%  
+	    Newer     		  12.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\16 No One to Depend On.m4a100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\17 The Game of Love (feat. Michelle.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Ultimate Santana\18 Interplanetary Party.m4a  0%   55%   89%  100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\01 Are You Ready.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\02 No More.m4a100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\03 A Reason to Fight.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\04 In Another Time.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\05 Stronger On Your Own.m4a100%  
+	    Newer     		  10.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\06 Hold On to Memories.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\07 Saviour of Nothing.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\08 Watch You Burn.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\09 The Best Ones Lie.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\10 Already Gone.m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\11 The Sound of Silence (feat. Myles.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\12 This Venom (Bonus Track).m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\13 Are You Ready (Sam de Jong Remix).m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Evolution (Deluxe Edition)\14 Uninvited Guest (Bonus Track).m4a100%  
+	    Newer     		  17.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Images and Words\01 Pull Me Under.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Images and Words\02 Another Day.m4a100%  
+	    Newer     		  17.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Images and Words\03 Take the Time.m4a100%  
+	    Newer     		  11.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Images and Words\04 Surrounded.m4a100%  
+	    Newer     		  19.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Images and Words\05 Metropolis, Pt. 1_ The Miracle an.m4a100%  
+	    Newer     		  14.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Images and Words\06 Under a Glass Moon.m4a  0%   33%   40%   53%   87%   94%  100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Images and Words\07 Wait for Sleep.m4a100%  
+	    Newer     		  24.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Images and Words\08 Learning to Live.m4a100%  
+	    Newer     		   4.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\01 Scene One_ Regression.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\02 Scene Two_ I. Overture 1928.m4a100%  
+	    Newer     		  11.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\03 Scene Two_ II. Strange Deja Vu.m4a100%  
+	    Newer     		   2.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\04 Scene Three_ I. Through My Words.m4a100%  
+	    Newer     		  14.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\05 Scene Three_ II. Fatal Tragedy.m4a100%  
+	    Newer     		  24.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\06 Scene Four_ Beyond This Life.m4a100%  
+	    Newer     		  11.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\07 Scene Five_ Through Her Eyes.m4a100%  
+	    Newer     		  27.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\08 Scene Six_ Home.m4a100%  
+	    Newer     		  13.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\09 Scene Seven_ I. The Dance of Eter.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\10 Scene Seven_ II. One Last Time.m4a100%  
+	    Newer     		  13.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\11 Scene Eight_ The Spirit Carries O.m4a100%  
+	    Newer     		  24.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Metropolis, Pt. 2_ Scenes from a Memory\12 Scene Nine_ Finally Free.m4a100%  
+	    Newer     		   3.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\01 The Eye of the Storm.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\02 Immortalized.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\03 The Vengeful One.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\04 Open Your Eyes.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\05 The Light.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\06 What Are You Waiting For.m4a  0%   61%   98%  100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\07 You_re Mine.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\08 Who.m4a100%  
+	    Newer     		   9.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\09 Save Our Last Goodbye.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\10 Fire It Up.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\11 The Sound of Silence.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\12 Never Wrong.m4a100%  
+	    Newer     		   9.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\13 Who Taught You How to Hate.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\01 Get Over It.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\02 Love Will Keep Us Alive.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\03 The Girl from Yesterday.m4a100%  
+	    Newer     		   9.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\04 Learn to Be Still.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\05 Tequila Sunrise (Live On MTV, 199.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\14 Tyrant (Bonus Track).m4a100%  
+	    Newer     		  15.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\06 Hotel California (Live On MTV, 19.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\15 Legion of Monsters (Bonus Track).m4a100%  
+	    Newer     		  10.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\07 Wasted Time (Live On MTV, 1994).m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\08 Pretty Maids All In a Row (Live O.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Disturbed\Immortalized (Deluxe Edition)\16 The Brave and the Bold (Bonus Tra.m4a100%  
+	    Newer     		  10.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\09 I Can't Tell You Why (Live On MTV.m4a100%  
+	    Newer     		  13.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\10 New York Minute (Live On MTV, 199.m4a  0%   21%   29%   58%   72%   80%   87%  100%  
+	    Newer     		  15.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\11 The Last Resort (Live On MTV, 199.m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\12 Take It Easy (Live On MTV, 1994).m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\13 In the City (Live On MTV, 1994).m4a100%  
+	    Newer     		  12.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\14 Life In the Fast Lane (Live On MT.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Eagles\Hell Freezes Over (Remastered) [Live]\15 Desperado (Live On MTV, 1994).m4a100%  
+	    Newer     		  13.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dr.Viossy\Moonlight Sonata for Electric Guitar (Me\01 Moonlight Sonata for Electric Gui.m4a100%  
+	    Newer     		  11.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\01 Si Amaneciera.m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\02 Cuando Tus Sue§os Te Hagan Llorar.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\03 Parte de Mi.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\04 Tortura.m4a100%  
+	    Newer     		  12.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\05 Siento Que No Est†s.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\06 Por la Puerta de Atr†s.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\07 Manos Unidas.m4a100%  
+	    Newer     		   9.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\08 Mar de Luz.m4a100%  
+	    Newer     		  10.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\09 Lejos de Ti.m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\10 Charlie Se Fue.m4a 63%   79%  100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\11 En Tu Cuerpo.m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\12 Fe.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\13 Eres t£.m4a100%  
+	    Newer     		  11.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\14 Si Amaneciera (Ac£stico).m4a 69%  100%  
+	    Newer     		   5.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\15 Ojo por Ojo (Ac£stico).m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Compilations\Si No Amaneciera (Baladas)\16 En Tu Cuerpo (Ac£stico).m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jason Mraz\I'm Yours - Single\01 I'm Yours.m4a100%  
+	    Newer     		  33.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\01 A Nightmare to Remember.m4a 48%   57%   66%   72%   87%   90%   96%  100%  
+	    Newer     		  17.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\02 A Rite of Passage.m4a100%  
+	    Newer     		  11.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\03 Wither.m4a100%  
+	    Newer     		  26.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\04 The Shattered Fortress.m4a100%  
+	    Newer     		  26.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\05 The Best of Times.m4a100%  
+	    Newer     		  39.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\06 The Count of Tuscany.m4a100%  
+	    Newer     		  16.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\07 Stargazer.m4a100%  
+	    Newer     		  16.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\08 Tenement Funster _ Flick of the W.m4a100%  
+	    Newer     		  17.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\09 Odyssey.m4a100%  
+	    Newer     		  17.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\10 Take Your Fingers from My Hair.m4a100%  
+	    Newer     		  14.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\11 Larks Tongues In Aspic Pt. 2.m4a100%  
+	    Newer     		  15.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Black Clouds & Silver Linings (Special E\12 To Tame a Land.m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\John Petrucci\Terminal Velocity\01 Terminal Velocity.m4a100%  
+	    Newer     		  13.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\John Petrucci\Terminal Velocity\02 The Oddfather.m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\John Petrucci\Terminal Velocity\03 Happy Song.m4a100%  
+	    Newer     		  12.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\John Petrucci\Terminal Velocity\04 Gemini.m4a100%  
+	    Newer     		  11.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\John Petrucci\Terminal Velocity\05 Out of the Blue.m4a 68%  100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\John Petrucci\Terminal Velocity\06 Glassy-Eyed Zombies.m4a100%  
+	    Newer     		  15.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\John Petrucci\Terminal Velocity\07 The Way Things Fall.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\John Petrucci\Terminal Velocity\08 Snake in My Boot.m4a100%  
+	    Newer     		  14.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\John Petrucci\Terminal Velocity\09 Temple of Circadia.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jason Mraz\I Won't Give Up - Single\01 I Won't Give Up.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\01 Borracho.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\02 Imagina.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\03 PrÇndelo.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\04 QuÇ Fue Lo Que Pas¢_.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\05 PresÇntamela.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\06 Chiquitita.m4a100%  
+	    Newer     		   5.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\07 Todos Tomados.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\08 Funeral Reggae.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\09 Trasero.m4a100%  
+	    Newer     		   5.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\10 Capit†n Peligro.m4a100%  
+	    Newer     		   5.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\11 El Vato.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\12 S£per Mal.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\13 Hacerlo Bien.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\14 Zorra.m4a 52%   59%   65%   85%  100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\15 Quiero Paz.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\16 S£per Genital.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\17 No Tengo Amigos.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\18 Sadomasoquista.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\19 El Perro de Mi Primo.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Genitallica\Originales - 20 êxitos\20 Otra Vez.m4a100%  
+	    Newer     		  10.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jerry C\Canon Rock - Single\01 Canon Rock.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jerry C\Canon Rock - Single\02 Dear Mozart.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\01 Amnesia.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\02 Como Un Sol.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\03 Amargo Adi¢s.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\04 El Relato.m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\05 Las Tijeras.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\06 Cara De Chango.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\07 Por Una Mujer.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\08 Rudeboy Stomper.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\09 Puedo Apostar.m4a100%  
+	    Newer     		   5.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\10 Sombras En El Fr°o.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\11 Amargo Adi¢s (Versi¢n Tequila).m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\12 Sin Rencor.m4a 95%  100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Inspector\Alma En Fuego\13 Aguante.m4a100%  
+	    Newer     		  17.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Train of Thought\01 As I Am.m4a 93%  100%  
+	    Newer     		  23.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Train of Thought\02 This Dying Soul.m4a100%  
+	    Newer     		  23.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Train of Thought\03 Endless Sacrifice.m4a100%  
+	    Newer     		  20.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Train of Thought\04 Honor Thy Father.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Train of Thought\05 Vacant.m4a100%  
+	    Newer     		  23.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Train of Thought\06 Stream of Consciousness.m4a100%  
+	    Newer     		  29.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Dream Theater\Train of Thought\07 In the Name of God.m4a 54%   61%   65%   82%   89%  100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\01 It's My Life.m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\02 Zombie (Metal).m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\03 Hallelujah.m4a100%  
+	    Newer     		  11.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\04 Moonlight Sonata.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\05 You Give Love a Bad Name.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\06 Popcorn.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\07 Dragon Ball Gt.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\08 Unravel.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\09 The Mandalorian.m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\10 Poison.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\11 Easy on Me.m4a100%  
+	    Newer     		  19.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Kfir Ochaion\XII\12 Sweet Child O' Mine (Extended).m4a 81%  100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\01 Gnaahh.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\02 Up In Flames.m4a100%  
+	    Newer     		   9.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\03 Hands In the Air.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\04 Lifestyle.m4a100%  
+	    Newer     		  10.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\05 Is There Love In Space_.m4a100%  
+	    Newer     		  14.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\06 If I Could Fly.m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\07 The Souls of Distortion.m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\08 Just Look Up.m4a 76%   85%   95%  100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\09 I Like the Rain.m4a100%  
+	    Newer     		  19.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\10 Searching.m4a 80%  100%  
+	    Newer     		  11.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Joe Satriani\Is There Love In Space_\11 Bamboo.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\01 Ced°.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\02 No Va a Ser Tan F†cil.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\03 Indecisi¢n.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\04 Menea, Menea.m4a100%  
+	    Newer     		   5.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\05 Labios Mentirosos.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\06 M°a Desde Siempre.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\07 No Quiero Jugar.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\08 Ahora Que Me Acuerdo.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\09 Marcharte Fue Tu Error.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\10 No Te Enamores de M°.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\11 No Debemos Vernos.m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\Labios Mentirosos\12 ®Por QuÇ_.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\01 La Calabaza.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\02 Colgada a Mi Cuello.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\03 Ya Es Muy Tarde.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\04 M†s Adelante.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\05 Carita de Perd¢n.m4a 62%   85%   93%  100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\06 Ma§ana en Tu Olvido.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\07 El Arbol de la Horca.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\08 Mi Error.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\09 Te EstarÇ Esperando.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\10 Tu Risa.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\11 La Balanza.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\12 Si Yo Te Contara.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\13 Como Pez en el Agua.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\La Arrolladora Banda el Lim¢n de RenÇ Ca\M†s Adelante\14 Como Perro Atropellado.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\01 Electric Daisy Violin.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\02 Zi-Zi's Journey.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\03 Crystallize.m4a 90%  100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\04 Song of the Caged Bird.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\05 Moon Trance.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\06 Minimal Beat.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\07 Transcendence.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\08 Elements.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\09 Shadows.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\10 Spontaneous Me.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\11 Anti Gravity.m4a 96%  100%  
+	    Newer     		   9.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\12 Stars Align.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\13 Crystallize (Orchestral Remix).m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\14 Transcendence (Orchestral Remix).m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\15 Elements (Orchestral Remix).m4a100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\16 Crystallize Mashup (Remix By Wild.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Lindsey Stirling\Lindsey Stirling (Deluxe)\17 My Immortal.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jessie J, Ariana Grande & Nicki Minaj\Bang Bang - Single\01 Bang Bang.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\01 BB Good.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\02 Burnin' Up.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\03 Shelf.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\04 One Man Show.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\05 Lovebug.m4a 51%   64%   77%  100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\06 Tonight.m4a100%  
+	    Newer     		   9.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\07 Can't Have You.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\08 Video Girl.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\09 Pushin' Me Away.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\10 Sorry.m4a100%  
+	    Newer     		   5.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\11 Got Me Going Crazy.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\A Little Bit Longer\12 A Little Bit Longer.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\What a Man Gotta Do - Single\01 What a Man Gotta Do.m4a  0%    7%   46%   61%   69%   76%  100%  
+	    Newer     		   5.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\01 Miracle.m4a100%  
+	    Newer     		   5.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\02 Montana Sky.m4a100%  
+	    Newer     		   4.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\03 Wings.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\04 Sail Away.m4a100%  
+	    Newer     		   4.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\05 Americana.m4a100%  
+	    Newer     		   4.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\06 Celebrate!.m4a100%  
+	    Newer     		   5.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\07 Waffle House.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\08 Vacation Eyes.m4a100%  
+	    Newer     		   4.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\09 Summer In The Hamptons.m4a100%  
+	    Newer     		   5.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\10 Summer Baby.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\11 Little Bird.m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\The Album\12 Walls (feat. Jon Bellion).m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-01 Esa Pared (En Vivo) [feat. Vice.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-02 C¢mo Te Extra§o Mi Amor (En Viv.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-03 Te He Prometido (En Vivo) [feat.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-04 Fanny (En Vivo) [feat. Kinky].m4a100%  
+	    Newer     		   5.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-05 Extra§os (C¢mo Poder Saber Si T.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-06 P°deme la Luna (En Vivo) [feat..m4a100%  
+	    Newer     		   5.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-07 Celia (En Vivo) [feat. Palito O.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-08 S¢lo una Vez (En Vivo) [feat. A.m4a  0%   40%   48%   64%  100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-09 Toquen Mariachis Canten (En Viv.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-10 Yo SÇ Que No Es Feliz (En Vivo).m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-11 Mary Es Mi Amor (En Vivo) [feat.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-12 Por un Caminito (En Vivo) [feat.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-13 Siempre Estoy Pensando en Ella.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-14 La Ni§a Est† Triste (En Vivo) [.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Leo Dan\Celebrando a una Leyenda (En Vivo)\1-15 Una Calle Nos Separa (En Vivo).m4a100%  
+	    Newer     		   5.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\01 S.O.S..m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\02 Hold On.m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\03 Goodnight and Goodbye.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\04 That's Just the Way We Roll.m4a100%  
+	    Newer     		   5.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\05 Hello Beautiful.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\06 Still In Love With You.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\07 Australia.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\08 Games.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\09 When You Look Me In the Eyes.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\10 Inseparable.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\11 Just Friends.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\12 Hollywood.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\13 Take a Breath.m4a  0%   14%   56%  100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Jonas Brothers\14 S.O.S. (Live).m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Who's In Your Head - Single\01 Who's In Your Head.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\01 30 de Febrero (feat. Abraham Mate.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\02 Ojal†.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\03 No Pasa Nada.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\04 Eso No Va a Suceder.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\05 100 A§os.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\06 Llueve Sobre Mojado.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\07 Paleta.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\08 Extra§os.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\09 ®QuÇ Me Falt¢_.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\10 No Me Importa.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\11 Coraz¢n Irrompible.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\30 de Febrero\12 Me Gustas T£.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\XV - Single\01 X (feat. KAROL G).m4a100%  
+	    Newer     		   5.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\XV - Single\02 Five More Minutes.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\01 Sucker.m4a100%  
+	    Newer     		   5.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\02 Cool.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\03 Only Human.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\04 I Believe.m4a  0%   13%   26%   39%   52%   78%   92%  100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\05 Used To Be.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\06 Every Single Time.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\07 Don't Throw it Away.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\08 Love Her.m4a100%  
+	    Newer     		   5.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\09 Happy When I'm Sad.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\10 Trust.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\11 Strangers.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\12 Hesitate.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\13 Rollercoaster.m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Jonas Brothers\Happiness Begins\14 Comeback.m4a100%  
+	    Newer     		  11.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\01 De Pies a Cabeza (En Vivo).m4a100%  
+	    Newer     		  10.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\02 Oye Mi Amor (En Vivo).m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\03 Refrigador (En Vivo).m4a100%  
+	    Newer     		  13.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\04 ®D¢nde Jugaran los Ni§os_ (En Viv.m4a100%  
+	    Newer     		  12.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\05 Soledad (En Vivo).m4a100%  
+	    Newer     		  14.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\06 Huele a Tristeza (En Vivo).m4a100%  
+	    Newer     		  13.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\07 Te LlorÇ un Rio (En Vivo).m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\08 Estoy Agotado (En Vivo).m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\09 Perdido En Un Barco (En Vivo).m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\10 Busc†ndola (En Vivo).m4a  0%   11%   23%   47%   82%   94%  100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\11 La Chula (En Vivo).m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\12 El Rey (En Vivo).m4a100%  
+	    Newer     		  16.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\13 Como Diablos (En Vivo).m4a100%  
+	    Newer     		  12.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\14 Me Vale (En Vivo).m4a100%  
+	    Newer     		  15.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\15 Rayando el Sol (En Vivo).m4a100%  
+	    Newer     		  19.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\16 Como Te Deseo (En Vivo).m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\17 La Puerta Azul (En Vivo).m4a100%  
+	    Newer     		  12.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\En Vivo\18 Vivir Sin Aire (En Vivo).m4a100%  
+	    Newer     		  18.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Liquid Tension Experiment\Liquid Tension Experiment\01 Paradigm Shift.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Liquid Tension Experiment\Liquid Tension Experiment\02 Osmosis.m4a100%  
+	    Newer     		  13.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Liquid Tension Experiment\Liquid Tension Experiment\03 Kindred Spirits.m4a100%  
+	    Newer     		   4.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Liquid Tension Experiment\Liquid Tension Experiment\04 The Stretch.m4a100%  
+	    Newer     		  19.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Liquid Tension Experiment\Liquid Tension Experiment\05 Freedom of Speech.m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Liquid Tension Experiment\Liquid Tension Experiment\06 Chris and Kevin's Excellent Adven.m4a100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Liquid Tension Experiment\Liquid Tension Experiment\07 State of Grace.m4a100%  
+	    Newer     		  16.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Liquid Tension Experiment\Liquid Tension Experiment\08 Universal Mind.m4a100%  
+	    Newer     		  57.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Liquid Tension Experiment\Liquid Tension Experiment\09 Three Minute Warning.m4a 55%   62%   69%   70%   72%   74%   76%   79%   81%   82%   84%   86%   88%   89%   91%   93%   95%   96%   98%  100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\01 Manda una Se§al.m4a100%  
+	    Newer     		  11.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\02 Labios Compartidos.m4a100%  
+	    Newer     		  10.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\03 Ojal† Pudiera Borrarte.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\04 Arr†ncame el Coraz¢n.m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\05 Tengo Muchas Alas.m4a100%  
+	    Newer     		  10.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\06 Dime Luna.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\07 Bendita Tu Luz.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\08 Tu Me Salvaste.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\09 Combatiente.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\10 El Viaje (Dub).m4a100%  
+	    Newer     		  10.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\11 El Rey Tibur¢n.m4a100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\12 Somos Mar y Arena.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\13 Relax.m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Man†\Amar Es Combatir\14 Angel de Amor (Dance Remix).m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\01 Lo Que un Hombre Deber°a Saber.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\02 Si Yo Fuera T£.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\03 Supongo Que Lo Sabes.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\04 Mi Salida Contigo.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\05 Ten°an Raz¢n.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\06 Mejor Que Te Acostumbres.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\07 Te Lo Dije.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\08 Yo Nunca Nunca.m4a  0%   15%   61%   76%   92%  100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\09 Demasiado para Ti.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\10 Mi D°a Favorito.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Ha-Ash\Haashtag\11 Ser°as T£.m4a100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Marc Anthony\Vali¢ la Pena\01 Vali¢ la Pena.m4a100%  
+	    Newer     		  10.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Marc Anthony\Vali¢ la Pena\02 EscapÇmonos.m4a100%  
+	    Newer     		  10.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Marc Anthony\Vali¢ la Pena\03 Ahora QuiÇn.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Marc Anthony\Vali¢ la Pena\04 Tu Amor Me Hace Bien.m4a100%  
+	    Newer     		  10.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Marc Anthony\Vali¢ la Pena\05 Volando Entre Tus Brazos.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Marc Anthony\Vali¢ la Pena\06 Amigo.m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Marc Anthony\Vali¢ la Pena\07 Se Esfuma Tu Amor.m4a100%  
+	    Newer     		  10.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Marc Anthony\Vali¢ la Pena\08 Lamento Borincano.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Marc Anthony\A QuiÇn Quiero Mentirle (Salsa Version)\01 A QuiÇn Quiero Mentirle (Salsa Ve.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Mark Ronson\Uptown Funk (feat. Bruno Mars) [Trinidad\01 Uptown Funk (feat. Bruno Mars) [T.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Girls Like You (feat. Cardi B) - Single\01 Girls Like You (feat. Cardi B).m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Memories - Single\01 Memories.m4a100%  
+	    Newer     		   8.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\01 Bad.m4a100%  
+	    Newer     		  10.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\02 The Way You Make Me Feel.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\03 Speed Demon.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\04 Liberian Girl.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\05 Just Good Friends.m4a  0%   24%   36%   48%   72%   84%   96%  100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\06 Another Part of Me.m4a100%  
+	    Newer     		  10.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\07 Man In the Mirror.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\08 I Just Can't Stop Loving You.m4a100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\09 Dirty Diana.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\10 Smooth Criminal.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Bad\11 Leave Me Alone.m4a100%  
+	    Newer     		   5.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\My Mind & Me - Single\01 My Mind & Me.m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Marshmello & Jonas Brothers\Leave Before You Love Me - Single\01 Leave Before You Love Me.m4a100%  
+	    Newer     		  11.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\01 Enter Sandman.m4a100%  
+	    Newer     		  10.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\02 Sad But True.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\03 Holier Than Thou.m4a100%  
+	    Newer     		  13.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\04 The Unforgiven.m4a100%  
+	    Newer     		  13.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\05 Wherever I May Roam.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\06 Don't Tread On Me.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\07 Through the Never.m4a100%  
+	    Newer     		  12.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\08 Nothing Else Matters.m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\09 Of Wolf and Man.m4a100%  
+	    Newer     		  10.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\10 The God That Failed.m4a100%  
+	    Newer     		  13.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\11 My Friend of Misery.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Metallica\Metallica\12 The Struggle Within.m4a  0%   18%   44%   50%   69%   94%  100%  
+	    Newer     		  13.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Thriller\01 Wanna Be Startin' Somethin'.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Thriller\02 Baby Be Mine.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Thriller\03 The Girl Is Mine (with Paul McCar.m4a100%  
+	    Newer     		  12.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Thriller\04 Thriller.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Thriller\05 Beat It.m4a100%  
+	    Newer     		  10.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Thriller\06 Billie Jean.m4a100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Thriller\07 Human Nature.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Thriller\08 P.Y.T. (Pretty Young Thing).m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Michael Jackson\Thriller\09 The Lady In My Life.m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revelaci¢n - EP\01 De Una Vez.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revelaci¢n - EP\02 Buscando Amor.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revelaci¢n - EP\03 Baila Conmigo.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revelaci¢n - EP\04 D†melo To_ (feat. Myke Towers).m4a100%  
+	    Newer     		   5.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revelaci¢n - EP\05 Vicio.m4a100%  
+	    Newer     		   4.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revelaci¢n - EP\06 Adi¢s.m4a100%  
+	    Newer     		   5.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revelaci¢n - EP\07 Selfish Love.m4a100%  
+	    Newer     		   6.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\01 Birthday.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\02 Slow Down.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\03 Stars Dance.m4a100%  
+	    Newer     		   6.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\04 Like a Champion.m4a  0%   40%   57%   65%   73%  100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\05 Come & Get It.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\06 Forget Forever.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\07 Save the Day.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\08 B.E.A.T..m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\09 Write Your Name.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\10 Undercover.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\11 Love Will Remember.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\12 Nobody Does It Like You (Bonus Tr.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Stars Dance (Bonus Track Version)\13 Music Feels Better (Bonus Track).m4a100%  
+	    Newer     		   5.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\01 Boyfriend.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\02 Lose You To Love Me.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\03 Rare.m4a100%  
+	    Newer     		   5.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\04 Souvenir.m4a100%  
+	    Newer     		   5.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\05 Look At Her Now.m4a100%  
+	    Newer     		   5.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\06 She.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\07 Crowded Room.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\08 Vulnerable.m4a100%  
+	    Newer     		   6.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\09 Dance Again.m4a100%  
+	    Newer     		   5.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\10 Ring.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\11 A Sweeter Place (feat. Kid Cudi).m4a  0%   11%   90%  100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\12 People You Know.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\13 Cut You Off.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\14 Let Me Get Me.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\15 Kinda Crazy.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\16 Fun.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Rare (Deluxe)\17 Feel Me.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\01 Revival.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\02 Kill Em With Kindness.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\03 Hands To Myself.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\04 Same Old Love.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\05 Sober.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\06 Good For You (feat. A$AP Rocky).m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\07 Camouflage.m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\08 Me & the Rhythm.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\09 Survivors.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\10 Body Heat.m4a100%  
+	    Newer     		   5.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\11 Rise.m4a100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\12 Me & My Girls.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\13 Nobody.m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\14 Perfect.m4a  0%   97%  100%  
+	    Newer     		   7.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\15 Outta My Hands (Loco).m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez\Revival (Deluxe)\16 Cologne.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\01 Best 4 U.m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\02 What Lovers Do (feat. SZA).m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\03 Wait.m4a100%  
+	    Newer     		   7.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\04 Lips On You.m4a100%  
+	    Newer     		   6.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\05 Bet My Heart.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\06 Help Me Out.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\07 Who I Am (feat. LunchMoney Lewis).m4a100%  
+	    Newer     		   7.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\08 Whiskey (feat. A$AP Rocky).m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\09 Girls Like You.m4a100%  
+	    Newer     		  23.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\10 Closure.m4a100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\11 Denim Jacket.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\12 Visions.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\13 Plastic Rose.m4a100%  
+	    Newer     		   7.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\14 Don't Wanna Know (feat. Kendrick.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\15 Cold (feat. Future).m4a100%  
+	    Newer     		  10.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\16 Moves Like Jagger (Live In Manche.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\17 Stereo Hearts (Live In Manchester.m4a100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\18 Animals (Live In Manchester).m4a  0%   84%  100%  
+	    Newer     		  14.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\19 Daylight (Live In Manchester).m4a100%  
+	    Newer     		   9.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\20 Maps (Live In Manchester).m4a100%  
+	    Newer     		  10.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\21 This Love (Live In Manchester).m4a100%  
+	    Newer     		   8.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Maroon 5\Red Pill Blues (Deluxe)\22 Girls Like You (feat. Cardi B).m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Selena Gomez & Camilo\999 - Single\01 999.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\The ROOTLESS\One day - EP\01 One day.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\The ROOTLESS\One day - EP\02 real.m4a100%  
+	    Newer     		  10.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\The ROOTLESS\One day - EP\03 sayonarayomaeni.m4a100%  
+	    Newer     		   5.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\The ROOTLESS\One day - EP\04 One day (TV Version).m4a100%  
+	    Newer     		   7.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Reik & Christian Nodal\Poco - Single\01 Poco.m4a 52%   78%  100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Shawn Mendes & Camila Cabello\Se§orita - Single\01 Se§orita.m4a100%  
+	    Newer     		   7.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Skindred\Pressure (Album Version) - Single\01 Pressure.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Reik\De MÇxico - EP\01 Si No Te Hubieras Ido.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Reik\De MÇxico - EP\02 Tatuajes.m4a100%  
+	    Newer     		   6.6 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Reik\De MÇxico - EP\03 Te Hubieras Ido Antes.m4a100%  
+	    Newer     		   5.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Reik\De MÇxico - EP\04 Estos Celos.m4a100%  
+	    Newer     		   6.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Reik\De MÇxico - EP\05 H†blame de Ti.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Reik\De MÇxico - EP\06 Fuerte No Soy.m4a100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\01 I.m4a100%  
+	    Newer     		   7.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\02 May Be.m4a  0%   50%   63%  100%  
+	    Newer     		   8.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\03 Love Me.m4a100%  
+	    Newer     		   6.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\04 River Flows In You.m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\05 Passing By.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\06 It's Your Day.m4a100%  
+	    Newer     		   6.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\07 When the Love Falls.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\08 Left My Hearts.m4a100%  
+	    Newer     		   9.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\09 Time Forgets....m4a100%  
+	    Newer     		   9.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\10 On the Way.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\11 Till I Find You.m4a100%  
+	    Newer     		   6.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\12 If I Could See You Again.m4a 58%  100%  
+	    Newer     		   4.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\13 Dream a Little Dream of Me.m4a100%  
+	    Newer     		   8.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\14 I....m4a100%  
+	    Newer     		   5.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Yiruma\Yiruma 2nd Album 'First Love' (The Origi\15 Farewell.m4a100%  
+	    Newer     		   9.4 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\01 Para Alcanzarte.m4a100%  
+	    Newer     		   8.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\02 Kil¢metros.m4a100%  
+	    Newer     		   8.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\03 A Encontrarte (dueto con Aureo Ba.m4a100%  
+	    Newer     		   8.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\04 A Primera Vista.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\05 Entra en Mi Vida.m4a100%  
+	    Newer     		   7.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\06 Te Vi Venir.m4a100%  
+	    Newer     		   9.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\07 Sirena.m4a  0%   10%   21%   94%  100%  
+	    Newer     		   9.7 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\08 No Neguemos el Amor.m4a100%  
+	    Newer     		   8.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\09 Si Me Besas.m4a100%  
+	    Newer     		   7.8 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\10 Ves.m4a100%  
+	    Newer     		   7.1 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\11 Sirena (Versi¢n Ac£stica).m4a100%  
+	    Newer     		   9.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Sin Bandera\Sin Bandera\12 Kil¢metros (En Vivo).m4a100%  
+	    Newer     		  12.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Steve Vai\Alien Love Secrets - EP\01 Bad Horsie.m4a 63%   71%   79%  100%  
+	    Newer     		   8.2 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Steve Vai\Alien Love Secrets - EP\02 Juice.m4a100%  
+	    Newer     		   8.5 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Steve Vai\Alien Love Secrets - EP\03 Die to Live.m4a100%  
+	    Newer     		  11.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Steve Vai\Alien Love Secrets - EP\04 The Boy from Seattle.m4a100%  
+	    Newer     		   6.3 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Steve Vai\Alien Love Secrets - EP\05 Ya-Yo Gakk.m4a100%  
+	    Newer     		  15.0 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Steve Vai\Alien Love Secrets - EP\06 Kill the Guy with the Ball.m4a100%  
+	    Newer     		  10.9 m	\\WIN11VIRTUAL\SharedFolder\iTunes\Music\iTunes Media\Music\Steve Vai\Alien Love Secrets - EP\07 Tender Surrender.m4a100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       164       164       163         0         0         3
+   Files :      1181      1181         0         0         0         0
+   Bytes :  10.242 g  10.242 g         0         0         0         0
+   Times :   3:08:51   0:08:38                       0:00:00   0:00:26
+
+
+   Speed :           21,224,597 Bytes/sec.
+   Speed :            1,214.481 MegaBytes/min.
+   Ended : Friday, July 21, 2023 8:06:40 PM
+
