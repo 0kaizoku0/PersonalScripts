@@ -3,11 +3,12 @@ $scriptPath = $MyInvocation.MyCommand.Path
 $scriptDirectory = Split-Path $scriptPath
 
 # Ruta del archivo de salida
-$outputFilePath = Join-Path -Path $scriptDirectory -ChildPath "ArchivoDeSalidaSD.txt"
+$outputFilePath = Join-Path -Path $scriptDirectory -ChildPath "ArchivoDeSalida.txt"
 
-# Ruta de la carpeta de búsqueda
+# Ruta de la carpeta de bï¿½squeda
+#$searchFolder = "C:\Sandbox\FTW3\itunes_m\user\current\Music\iTunes\iTunes Media\Music"
 #$searchFolder = "C:\Users\FTW3\OneDrive\iTunes\iTunes Media\Music"
-$searchFolder = "C:\Users\FTW3\OneDrive\Apple\Music"
+$searchFolder = "C:\Sandbox\FTW3\armandoob\user\current\Music\iTunes\iTunes Media\Music"
 
 # Buscar archivos .m4a de manera recursiva
 $files = Get-ChildItem -Path $searchFolder -Filter "*.m4a" -Recurse | Select-Object -ExpandProperty FullName
@@ -15,6 +16,7 @@ $files = Get-ChildItem -Path $searchFolder -Filter "*.m4a" -Recurse | Select-Obj
 # Guardar la lista de archivos en un archivo de texto
 $files | Out-File -FilePath $outputFilePath
 
-# Abrir el archivo con una aplicación específica (por ejemplo, Bloc de notas)
+# Abrir el archivo con una aplicaciï¿½n especï¿½fica (por ejemplo, Bloc de notas)
 $application = "notepad++.exe"
 Start-Process -FilePath $application -ArgumentList $outputFilePath
+

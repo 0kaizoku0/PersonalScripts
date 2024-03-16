@@ -1,0 +1,43 @@
+{
+    "files.associations": {
+        "*.yrf": "json",
+        "*.rpx": "xml"
+    },
+    "workbench.colorTheme": "Default Dark+",
+    "window.zoomLevel": 2,
+    "editor.tabSize": 2,
+    "editor.indentSize": "tabSize",
+    "editor.renderWhitespace": "all",
+    "launch": {
+        
+        "configurations": [],
+        "compounds": []
+    },
+    // Defining custom colors instead of default
+    "indentRainbow.colors": [
+        "rgba(137,049,239,0.2)",
+        "rgba(242,202,025,0.2)",
+        "rgba(255,000,189,0.2)",
+        "rgba(000,087,233,0.2)",
+        "rgba(135,233,017,0.2)",
+        "rgba(225,024,069,0.2)",
+
+        "rgba(143,000,242,0.15)",
+        "rgba(000,207,251,0.15)",
+        "rgba(092,255,000,0.15)",
+        "rgba(253,251,000,0.15)",
+        "rgba(253,174,050,0.15)",
+        "rgba(255,012,018,0.15)",
+    // default colors
+        "rgba(255,255,064,0.07)",
+        "rgba(127,255,127,0.07)",
+        "rgba(255,127,255,0.07)",
+        "rgba(079,236,236,0.07)",
+    ],
+    // The indent color if the number of spaces is not a multiple of "tabSize".
+    "indentRainbow.errorColor": "rgba(128,32,32,0.9)",
+    // The indent color when there is a mix between spaces and tabs.
+    // To be disabled this coloring set this to an empty string.
+    "indentRainbow.tabmixColor": "rgba(128,32,96,0.6)"
+    
+}
