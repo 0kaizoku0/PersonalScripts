@@ -1,3 +1,9 @@
+# To run ps1 with error:
+# .ps1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at
+# https:/go.microsoft.com/fwlink/?LinkID=135170.
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+Get-ExecutionPolicy -List
+
 # win11-taskbar-settings.ps1
 New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "TaskbarAl" -Value 0 -Force
 # Hide windows search bar
@@ -216,6 +222,7 @@ winget install -e --id RealVNC.VNCServer
 
 # KDE.Krita
 winget install --scope machine -e --id KDE.Krita
+
 
 #####################################################
 # AndroidStudio
