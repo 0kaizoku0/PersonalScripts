@@ -9,7 +9,7 @@ New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer
 # Hide windows search bar
 Set-ItemProperty -Path HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Search -Name SearchBoxTaskbarMode -Value 0 -Type DWord -Force
 # Hide Task view
-Set-ItemProperty -Path HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced -Name 'ShowTaskViewButton' -Type 'DWord' -Value 0 
+Set-ItemProperty -Path HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced -Name 'ShowTaskViewButton' -Type 'DWord' -Value 0
 
 
 # Make sure you update winget in microsoft store and login
@@ -23,7 +23,7 @@ Set-ItemProperty -Path HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\
 winget update
 
 # Update all
-winget upgrade --all 
+winget upgrade --all
 
 
 # Sticky Password
@@ -94,7 +94,7 @@ winget install -e --id 9NKSQGP7F2NH
 winget install --scope machine -e --id ALCPU.CoreTemp
 # winget install -e --id ALCPU.CoreTemp
 
-# Hard Disk Low Level Format Tool 
+# Hard Disk Low Level Format Tool
 winget install --scope machine -e --id HDDGURU.HDDLLFTool
 Write-Host "Install license" -ForegroundColor Yellow
 Write-Host "4WKB-CLM6-8VV9-GQHG" -ForegroundColor Yellow
@@ -223,7 +223,10 @@ winget install -e --id RealVNC.VNCServer
 # KDE.Krita
 winget install --scope machine -e --id KDE.Krita
 
-# TeXstudio.TeXstudio
+# MiKTeX.MiKTeX 24.1
+winget install --scope machine -e --id MiKTeX.MiKTeX -i
+
+# TeXstudio.TeXstudio 4.7.3
 winget install --scope machine -e --id TeXstudio.TeXstudio
 
 #####################################################
@@ -242,7 +245,7 @@ winget install --scope machine -e --id FlorianHoech.DisplayCAL
 # den4b.ReNamer Renombrar archivos
 winget install --scope machine -e --id den4b.ReNamer #se ve bien para renombrar archivos
 
-# AIDA64 Extreme 
+# AIDA64 Extreme
 winget install --scope machine -e --id FinalWire.AIDA64.Extreme
 # winget install -e --id FinalWire.AIDA64.Extreme
 Write-Host "Install license" -ForegroundColor Yellow
