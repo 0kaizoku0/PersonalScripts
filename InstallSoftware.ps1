@@ -223,6 +223,8 @@ winget install -e --id RealVNC.VNCServer
 # KDE.Krita
 winget install --scope machine -e --id KDE.Krita
 
+# TeXstudio.TeXstudio
+winget install --scope machine -e --id TeXstudio.TeXstudio
 
 #####################################################
 # AndroidStudio
