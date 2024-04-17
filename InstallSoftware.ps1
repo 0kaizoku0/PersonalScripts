@@ -19,6 +19,11 @@ Set-ItemProperty -Path HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\
 # winget install --scope machine -e --id software
 # winget install -e --id software
 
+# Enabled admin setting 'InstallerHashOverride'.
+# https://stackoverflow.com/questions/75647313/winget-install-my-app-receives-installer-hash-does-not-match
+winget settings --enable InstallerHashOverride
+# to be able to use --ignore-security-hash
+
 # Check for updates
 winget update
 
@@ -153,8 +158,8 @@ winget install --scope machine -e --id VMware.WorkstationPro -v 17.0.0
 Write-Host "Install License" -ForegroundColor Yellow
 Write-Host "AV1DR-DMGE6-M802P-D7ZEX-WV0TA" -ForegroundColor Green
 
-# PunkLabs.RocketDock Fail hash
-winget install --scope machine -e --id PunkLabs.RocketDock
+# PunkLabs.RocketDock 1.3.5 Fail hash
+winget install --scope machine -e --id PunkLabs.RocketDock --ignore-security-hash
 # winget install -e --id PunkLabs.RocketDock
 
 # Sandboxie.Plus
@@ -228,6 +233,7 @@ winget install --scope machine -e --id MiKTeX.MiKTeX -i
 
 # TeXstudio.TeXstudio 4.7.3
 winget install --scope machine -e --id TeXstudio.TeXstudio
+
 
 #####################################################
 # AndroidStudio
