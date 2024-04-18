@@ -2,9 +2,9 @@
 $sourceFolder1 = "$PSScriptRoot\Local\LGHUB"
 $sourceFolder2 = "$PSScriptRoot\Roaming\G HUB"
 $sourceFolder3 = "$PSScriptRoot\Roaming\lghub"
-$destinationFolder1 = "$env:LOCALAPPDATA\LGHUB"
-$destinationFolder2 = "$env:APPDATA\G HUB"
-$destinationFolder3 = "$env:APPDATA\lghub"
+$destinationFolder1 = "$env:LOCALAPPDATA"
+$destinationFolder2 = "$env:APPDATA"
+$destinationFolder3 = "$env:APPDATA"
 
 
 # Copy a folder from sourceFolder1 to the destinationFolder1
