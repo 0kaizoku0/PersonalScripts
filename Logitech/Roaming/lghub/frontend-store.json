@@ -1,4 +1,6 @@
 {
 	"slideShowIndex-g915": 0,
-	"activeDeviceMenu-g915": "ASSIGNMENTS"
+	"activeDeviceMenu-g915": "ASSIGNMENTS",
+	"showOnBoardMemoryDialog": false,
+	"activeDeviceMenu-g502_wireless": "DPI"
 }
