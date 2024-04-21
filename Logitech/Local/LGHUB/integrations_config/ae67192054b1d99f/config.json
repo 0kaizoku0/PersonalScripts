@@ -114,6 +114,261 @@
     "actionId": "obs_mic_mute_toggle",
     "actionIcon": "",
     "parameters": []
+   },
+   {
+    "name": "APPLET_OBS_COLLECTION_ACTIVATE",
+    "actionId": "obs_collection_activate",
+    "actionIcon": "",
+    "parameters": [
+     {
+      "parameterId": "collection_name",
+      "errorMessage": "APPLET_OBS_COLLECTION_INVALID",
+      "assignmentMessage": "APPLET_OBS_COLLECTION_SELECTION",
+      "parameterType": "LIST",
+      "listSelection": [
+       {
+        "displayName": "Untitled",
+        "value": "Untitled",
+        "parameters": []
+       }
+      ],
+      "parameters": []
+     }
+    ]
+   },
+   {
+    "name": "APPLET_OBS_SCENE_ACTIVATE",
+    "actionId": "obs_scene_activate",
+    "actionIcon": "",
+    "parameters": [
+     {
+      "parameterId": "scene_name",
+      "errorMessage": "APPLET_OBS_SCENE_INVALID",
+      "assignmentMessage": "APPLET_OBS_SCENE_SELECTION",
+      "parameterType": "LIST",
+      "listSelection": [
+       {
+        "displayName": "Scene",
+        "value": "Scene",
+        "parameters": []
+       }
+      ],
+      "parameters": []
+     }
+    ]
+   },
+   {
+    "name": "APPLET_OBS_SOURCE_ACTIVATE",
+    "actionId": "obs_source_activate",
+    "actionIcon": "",
+    "parameters": [
+     {
+      "parameterId": "scene_name",
+      "errorMessage": "APPLET_OBS_SCENE_INVALID",
+      "assignmentMessage": "APPLET_OBS_SCENE_SELECTION",
+      "parameterType": "LIST",
+      "listSelection": [
+       {
+        "displayName": "Scene",
+        "value": "Scene",
+        "parameters": [
+         {
+          "parameterId": "source_name",
+          "errorMessage": "APPLET_OBS_SOURCE_INVALID",
+          "assignmentMessage": "APPLET_OBS_SOURCE_SELECTION",
+          "parameterType": "LIST",
+          "listSelection": [
+           {
+            "displayName": "M28U",
+            "value": "M28U",
+            "parameters": []
+           },
+           {
+            "displayName": "M28U+Magnifier",
+            "value": "M28U+Magnifier",
+            "parameters": []
+           }
+          ],
+          "parameters": []
+         }
+        ]
+       }
+      ],
+      "parameters": []
+     }
+    ]
+   },
+   {
+    "name": "APPLET_OBS_SOURCE_DEACTIVATE",
+    "actionId": "obs_source_deactivate",
+    "actionIcon": "",
+    "parameters": [
+     {
+      "parameterId": "scene_name",
+      "errorMessage": "APPLET_OBS_SCENE_INVALID",
+      "assignmentMessage": "APPLET_OBS_SCENE_SELECTION",
+      "parameterType": "LIST",
+      "listSelection": [
+       {
+        "displayName": "Scene",
+        "value": "Scene",
+        "parameters": [
+         {
+          "parameterId": "source_name",
+          "errorMessage": "APPLET_OBS_SOURCE_INVALID",
+          "assignmentMessage": "APPLET_OBS_SOURCE_SELECTION",
+          "parameterType": "LIST",
+          "listSelection": [
+           {
+            "displayName": "M28U",
+            "value": "M28U",
+            "parameters": []
+           },
+           {
+            "displayName": "M28U+Magnifier",
+            "value": "M28U+Magnifier",
+            "parameters": []
+           }
+          ],
+          "parameters": []
+         }
+        ]
+       }
+      ],
+      "parameters": []
+     }
+    ]
+   },
+   {
+    "name": "APPLET_OBS_SOURCE_TOGGLE",
+    "actionId": "obs_source_toggle",
+    "actionIcon": "",
+    "parameters": [
+     {
+      "parameterId": "scene_name",
+      "errorMessage": "APPLET_OBS_SCENE_INVALID",
+      "assignmentMessage": "APPLET_OBS_SCENE_SELECTION",
+      "parameterType": "LIST",
+      "listSelection": [
+       {
+        "displayName": "Scene",
+        "value": "Scene",
+        "parameters": [
+         {
+          "parameterId": "source_name",
+          "errorMessage": "APPLET_OBS_SOURCE_INVALID",
+          "assignmentMessage": "APPLET_OBS_SOURCE_SELECTION",
+          "parameterType": "LIST",
+          "listSelection": [
+           {
+            "displayName": "M28U",
+            "value": "M28U",
+            "parameters": []
+           },
+           {
+            "displayName": "M28U+Magnifier",
+            "value": "M28U+Magnifier",
+            "parameters": []
+           }
+          ],
+          "parameters": []
+         }
+        ]
+       }
+      ],
+      "parameters": []
+     }
+    ]
+   },
+   {
+    "name": "APPLET_OBS_MIXER_MUTE",
+    "actionId": "obs_mixer_mute",
+    "actionIcon": "",
+    "parameters": [
+     {
+      "parameterId": "scene_name",
+      "errorMessage": "APPLET_OBS_SCENE_INVALID",
+      "assignmentMessage": "APPLET_OBS_SCENE_SELECTION",
+      "parameterType": "LIST",
+      "listSelection": [
+       {
+        "displayName": "Scene",
+        "value": "Scene",
+        "parameters": [
+         {
+          "parameterId": "mixer_name",
+          "errorMessage": "APPLET_OBS_MIXER_INVALID",
+          "assignmentMessage": "APPLET_OBS_MIXER_SELECTION",
+          "parameterType": "LIST",
+          "listSelection": [],
+          "parameters": []
+         }
+        ]
+       }
+      ],
+      "parameters": []
+     }
+    ]
+   },
+   {
+    "name": "APPLET_OBS_MIXER_UNMUTE",
+    "actionId": "obs_mixer_unmute",
+    "actionIcon": "",
+    "parameters": [
+     {
+      "parameterId": "scene_name",
+      "errorMessage": "APPLET_OBS_SCENE_INVALID",
+      "assignmentMessage": "APPLET_OBS_SCENE_SELECTION",
+      "parameterType": "LIST",
+      "listSelection": [
+       {
+        "displayName": "Scene",
+        "value": "Scene",
+        "parameters": [
+         {
+          "parameterId": "mixer_name",
+          "errorMessage": "APPLET_OBS_MIXER_INVALID",
+          "assignmentMessage": "APPLET_OBS_MIXER_SELECTION",
+          "parameterType": "LIST",
+          "listSelection": [],
+          "parameters": []
+         }
+        ]
+       }
+      ],
+      "parameters": []
+     }
+    ]
+   },
+   {
+    "name": "APPLET_OBS_MIXER_MUTE_TOGGLE",
+    "actionId": "obs_mixer_mute_toggle",
+    "actionIcon": "",
+    "parameters": [
+     {
+      "parameterId": "scene_name",
+      "errorMessage": "APPLET_OBS_SCENE_INVALID",
+      "assignmentMessage": "APPLET_OBS_SCENE_SELECTION",
+      "parameterType": "LIST",
+      "listSelection": [
+       {
+        "displayName": "Scene",
+        "value": "Scene",
+        "parameters": [
+         {
+          "parameterId": "mixer_name",
+          "errorMessage": "APPLET_OBS_MIXER_INVALID",
+          "assignmentMessage": "APPLET_OBS_MIXER_SELECTION",
+          "parameterType": "LIST",
+          "listSelection": [],
+          "parameters": []
+         }
+        ]
+       }
+      ],
+      "parameters": []
+     }
+    ]
    }
   ]
  },
