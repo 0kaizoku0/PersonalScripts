@@ -1,6 +1,4 @@
-REM path = C:\Sandbox\FTW3\sandboxname\user\current\Music\iTunes\iTunes Media\Music
-REM %SystemDrive%\Sandbox\%UserName%\armandoob\user\current\Music\iTunes\iTunes Media\Music
-
+@echo off
 set origen=%SystemDrive%\Sandbox\%UserName%\armandoob\user\current\Music\iTunes\iTunes Media\Music
 REM set destino=G:\Music
 REM set destino=\\C300\Descargas\Music
