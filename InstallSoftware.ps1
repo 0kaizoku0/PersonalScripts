@@ -261,7 +261,7 @@ Write-Host "Install license" -ForegroundColor Yellow
 
 
 # rocksdanister.LivelyWallpaper
-# winget install --scope machine -e --id rocksdanister.LivelyWallpaper
+winget install --scope machine -e --id rocksdanister.LivelyWallpaper
 
 # Lively Wallpaper Metro
 # winget install -e --id 9NKKGGS3VX8G
