@@ -237,6 +237,11 @@ winget install --scope machine -e --id TeXstudio.TeXstudio
 # TeXstudio.TeXstudio 4.7.3
 winget install --scope machine -e --id Amazon.Kindle
 
+# TomEnglert.RegionToShare
+winget install --scope machine -e --id TomEnglert.RegionToShare
+Write-Host "Check were it was extracted in temp folder" -ForegroundColor Yellow
+Write-Host "and move content to Program Files" -ForegroundColor Yellow
+
 
 #####################################################
 # AndroidStudio
@@ -258,6 +263,7 @@ winget install --scope machine -e --id den4b.ReNamer #se ve bien para renombrar 
 winget install --scope machine -e --id FinalWire.AIDA64.Extreme
 # winget install -e --id FinalWire.AIDA64.Extreme
 Write-Host "Install license" -ForegroundColor Yellow
+
 
 
 # rocksdanister.LivelyWallpaper
