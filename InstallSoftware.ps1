@@ -246,6 +246,14 @@ Write-Host "and move content to Program Files" -ForegroundColor Yellow
 # Command line alias added: "Victoria"
 winget install --scope machine -e --id Victoria.Victoria
 
+# rocksdanister.LivelyWallpaper
+winget install --scope machine -e --id rocksdanister.LivelyWallpaper
+
+# WinStep.Nexus
+winget install --scope machine -e --id WinStep.Nexus
+
+# TranslucentTB
+winget install -e --id 9PF4KZ2VN4W9
 
 #####################################################
 # AndroidStudio
@@ -270,11 +278,6 @@ Write-Host "Install license" -ForegroundColor Yellow
 
 
 
-# rocksdanister.LivelyWallpaper
-winget install --scope machine -e --id rocksdanister.LivelyWallpaper
-
-# WinStep.Nexus
-winget install --scope machine -e --id WinStep.Nexus
 
 # Lively Wallpaper Metro
 # winget install -e --id 9NKKGGS3VX8G
