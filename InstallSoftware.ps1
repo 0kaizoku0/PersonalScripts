@@ -255,6 +255,9 @@ winget install --scope machine -e --id WinStep.Nexus
 # TranslucentTB
 winget install -e --id 9PF4KZ2VN4W9
 
+winget install --scope machine -e --id Guru3D.Afterburner
+winget upgrade Guru3D.RTSS
+
 #####################################################
 # AndroidStudio
 winget install --scope machine -e --id Google.AndroidStudio -i
