@@ -1,0 +1,4 @@
+    Open about:config in the address bar.
+    Search for browser.download.open_pdf_attachments_inline and set it to true.
+    Go to Settings → General → Files and Applications → Applications.
+    Look for Portable Document Format (PDF) (application/pdf) and set it to Open in Firefox.

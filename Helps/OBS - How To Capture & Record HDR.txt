@@ -1,0 +1,37 @@
+How To Capture & Record HDR (High Dynamic Range) Footage Using OBS Studio on Windows 10 or 11
+
+In this video I cover how to enable HDR capture support in OBS Studio on either Windows 10 or 11.
+
+https://youtu.be/CXoGfxSIQe8
+
+With the 28.0 release of OBS Studio, it now supports capturing and recording HDR content, but there are requirements.
+
+First, this is only supported on Windows 10 or 11, and only works with Nvidia 10 series and newer, and AMD 5000 series and newer GPUs.
+
+Step 1. Install OBS Studio.
+
+https://obsproject.com/
+
+Download the latest build of OBS Studio from the official website by clicking the big Windows button.
+
+Once downloaded, run the installation package and launch OBS Studio once installed.
+
+Step 2. To Enable Support for HDR Within OBS.
+
+First, navigate to File / Setting / Advanced and set the Colour Format option to P010, Color Space to Rec. 2100 (PQ) and Color Range to Full.
+
+Click apply once done.
+
+Next click on the Output tab, set the Output Mode to Advanced and set the Encoder to NVIDIA NVENC HEVC or equivalent for AMD.
+
+Once done, click OK to close the window.
+
+Step 3. Set Up Sources.
+
+At this stage HDR support is enabled within but we need to add some Sources.
+
+For example, to add Game Capture as a source, click on the + symbol and select Game Capture from the list, and click OK to confirm.
+
+Under mode I typically choose Capture any Fullscreen application, the other options are optional, but the important thing is to change the Color Space option to Rec. 2100 (PQ).
+
+Finally click OK to confirm.
