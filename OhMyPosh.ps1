@@ -22,5 +22,8 @@ oh-my-posh font install 0xProto
 # }
 
 oh-my-posh init pwsh --config ~/jandedobbeleer.omp.json | Invoke-Expression
-#install theme adding the next to the file C:\Users\FTW3\OneDrive\Documentos\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
-oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/cert.omp.json" | Invoke-Expression
+# Install theme adding the next to the file C:\Users\FTW3\OneDrive\Documentos\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
+# Minimal themes don't contain glyphs
+# https://ohmyposh.dev/docs/themes
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/onehalf.minimal.omp.json" | Invoke-Expression
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/peru.omp.json" | Invoke-Expression
