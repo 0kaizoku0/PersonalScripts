@@ -2,9 +2,9 @@
  "supportedApplicationIds": [
   "420fd454-0c36-499d-bde4-146823b16147"
  ],
- "name": "APPLET_OBS_NAME",
- "author": "APPLET_AUTHOR_LOGITECH",
- "description": "APPLET_OBS_DESCRIPTION",
+ "name": "OBS",
+ "author": "Logitech G",
+ "description": "A Logitech G plugin for Open Broadcaster Software, exposing additional actions to G HUB.",
  "guid": "ae67192054b1d99f",
  "enabled": true,
  "isOfficial": false,
@@ -187,6 +187,11 @@
             "displayName": "M28U+Magnifier",
             "value": "M28U+Magnifier",
             "parameters": []
+           },
+           {
+            "displayName": "Window Capture",
+            "value": "Window Capture",
+            "parameters": []
            }
           ],
           "parameters": []
@@ -228,6 +233,11 @@
             "displayName": "M28U+Magnifier",
             "value": "M28U+Magnifier",
             "parameters": []
+           },
+           {
+            "displayName": "Window Capture",
+            "value": "Window Capture",
+            "parameters": []
            }
           ],
           "parameters": []
@@ -268,6 +278,11 @@
            {
             "displayName": "M28U+Magnifier",
             "value": "M28U+Magnifier",
+            "parameters": []
+           },
+           {
+            "displayName": "Window Capture",
+            "value": "Window Capture",
             "parameters": []
            }
           ],

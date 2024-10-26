@@ -4,5 +4,8 @@
 	"showOnBoardMemoryDialog": false,
 	"activeDeviceMenu-g502_wireless": "LIGHTING",
 	"slideShowIndex-pro_x2_gaming_wireless_headset": 0,
-	"activeDeviceMenu-pro_x2_gaming_wireless_headset": "ACOUSTICS"
+	"activeDeviceMenu-pro_x2_gaming_wireless_headset": "ACOUSTICS",
+	"deviceImage-3153233714": "http://127.0.0.1:9180/g502_wireless/front.png",
+	"deviceImage-1003781983": "http://127.0.0.1:9180/g915_us/front.png",
+	"deviceImage-\u0014\u0015\u0016\u0017\u0018\u0019\u001a\u001b\u001c\u001d\u001e\u001f": "http://127.0.0.1:9180/097fdd67-a78f-4e1f-8807-f2fc4f951705/front-black.png"
 }
