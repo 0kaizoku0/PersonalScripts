@@ -234,8 +234,11 @@ winget install --scope machine -e --id MiKTeX.MiKTeX -i
 # TeXstudio.TeXstudio 4.7.3
 winget install --scope machine -e --id TeXstudio.TeXstudio
 
-# TeXstudio.TeXstudio 4.7.3
+# Amazon.Kindle
 winget install --scope machine -e --id Amazon.Kindle
+
+# MoritzBunkus.MKVToolNix
+winget install --scope machine -e --id MoritzBunkus.MKVToolNix
 
 # TomEnglert.RegionToShare
 winget install --scope machine -e --id TomEnglert.RegionToShare
