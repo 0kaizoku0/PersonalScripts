@@ -290,3 +290,5 @@ Write-Host "Install license" -ForegroundColor Yellow
 
 # Lively Wallpaper Metro
 # winget install -e --id 9NKKGGS3VX8G
+
+winget install --scope machine -i -e --id Python.Python.3.6 -v 3.6.2
