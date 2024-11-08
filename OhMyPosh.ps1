@@ -41,4 +41,5 @@ Import-Module Terminal-Icons
 
 Set-PSReadLineOption -PredictionViewStyle ListView
 
-for cmd install clink
+# for cmd install clink
+winget install --scope machine -e --id chrisant996.Clink
