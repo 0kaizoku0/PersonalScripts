@@ -25,5 +25,20 @@ oh-my-posh init pwsh --config ~/jandedobbeleer.omp.json | Invoke-Expression
 # Install theme adding the next to the file C:\Users\FTW3\OneDrive\Documentos\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
 # Minimal themes don't contain glyphs
 # https://ohmyposh.dev/docs/themes
+
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/onehalf.minimal.omp.json" | Invoke-Expression
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/peru.omp.json" | Invoke-Expression
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/pure.omp.json" | Invoke-Expression
+
+notepad.exe $PROFILE
+
+New-Item -Path $PROFILE -Type File -Force
+
+. $PROFILE
+
+Install-Module -Name Terminal-Icons -Repository PSGallery
+Import-Module Terminal-Icons
+
+Set-PSReadLineOption -PredictionViewStyle ListView
+
+for cmd install clink
