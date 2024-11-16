@@ -77,8 +77,8 @@ winget install --scope machine -e --id Apple.iTunes -v 12.12.6.1
 # Piriform.CCleaner
 winget install --scope machine -e --id Piriform.CCleaner
 
-# PasswordSafe
-winget install --scope machine -e --id RonyShapiro.PasswordSafe
+# PasswordSafe - No scope machine to enable upgrade
+winget install -e --id RonyShapiro.PasswordSafe
 # winget install -e --id RonyShapiro.PasswordSafe
 
 # Internet Download Manager Fail in hash sometimes
