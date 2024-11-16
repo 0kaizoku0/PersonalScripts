@@ -37,6 +37,7 @@ New-Item -Path $PROFILE -Type File -Force
 . $PROFILE
 
 Install-Module -Name Terminal-Icons -Repository PSGallery
+#copy to profile
 Import-Module Terminal-Icons
 
 Set-PSReadLineOption -PredictionViewStyle ListView
