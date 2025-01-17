@@ -62,6 +62,12 @@ winget install --scope machine -e --id RARLab.WinRAR
 # winget install -e --id RARLab.WinRAR
 Write-Host "Install license" -ForegroundColor Yellow
 
+# Everything
+winget install --scope machine -i -e --id voidtools.Everything
+
+# WinSetView
+winget install --scope machine -e --id LesFerch.WinSetView -i
+
 # PowerISO
 winget install --scope machine -e --id PowerSoftware.PowerISO
 # winget install -e --id PowerSoftware.PowerISO
