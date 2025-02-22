@@ -62,6 +62,12 @@ winget install --scope machine -e --id RARLab.WinRAR
 # winget install -e --id RARLab.WinRAR
 Write-Host "Install license" -ForegroundColor Yellow
 
+# Everything
+winget install --scope machine -i -e --id voidtools.Everything
+
+# WinSetView
+winget install --scope machine -e --id LesFerch.WinSetView -i
+
 # PowerISO
 winget install --scope machine -e --id PowerSoftware.PowerISO
 # winget install -e --id PowerSoftware.PowerISO
@@ -77,8 +83,8 @@ winget install --scope machine -e --id Apple.iTunes -v 12.12.6.1
 # Piriform.CCleaner
 winget install --scope machine -e --id Piriform.CCleaner
 
-# PasswordSafe
-winget install --scope machine -e --id RonyShapiro.PasswordSafe
+# PasswordSafe - No scope machine to enable upgrade
+winget install -e --id RonyShapiro.PasswordSafe
 # winget install -e --id RonyShapiro.PasswordSafe
 
 # Internet Download Manager Fail in hash sometimes
