@@ -2,9 +2,9 @@
  "supportedApplicationIds": [
   "420fd454-0c36-499d-bde4-146823b16147"
  ],
- "name": "OBS",
- "author": "Logitech G",
- "description": "A Logitech G plugin for Open Broadcaster Software, exposing additional actions to G HUB.",
+ "name": "APPLET_OBS_NAME",
+ "author": "APPLET_AUTHOR_LOGITECH",
+ "description": "APPLET_OBS_DESCRIPTION",
  "guid": "ae67192054b1d99f",
  "enabled": true,
  "isOfficial": false,
@@ -189,8 +189,18 @@
             "parameters": []
            },
            {
-            "displayName": "Window Capture",
-            "value": "Window Capture",
+            "displayName": "Window Capture Full",
+            "value": "Window Capture Full",
+            "parameters": []
+           },
+           {
+            "displayName": "Window Capture Crop",
+            "value": "Window Capture Crop",
+            "parameters": []
+           },
+           {
+            "displayName": "Text",
+            "value": "Text",
             "parameters": []
            }
           ],
@@ -235,8 +245,18 @@
             "parameters": []
            },
            {
-            "displayName": "Window Capture",
-            "value": "Window Capture",
+            "displayName": "Window Capture Full",
+            "value": "Window Capture Full",
+            "parameters": []
+           },
+           {
+            "displayName": "Window Capture Crop",
+            "value": "Window Capture Crop",
+            "parameters": []
+           },
+           {
+            "displayName": "Text",
+            "value": "Text",
             "parameters": []
            }
           ],
@@ -281,8 +301,18 @@
             "parameters": []
            },
            {
-            "displayName": "Window Capture",
-            "value": "Window Capture",
+            "displayName": "Window Capture Full",
+            "value": "Window Capture Full",
+            "parameters": []
+           },
+           {
+            "displayName": "Window Capture Crop",
+            "value": "Window Capture Crop",
+            "parameters": []
+           },
+           {
+            "displayName": "Text",
+            "value": "Text",
             "parameters": []
            }
           ],

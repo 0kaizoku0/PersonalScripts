@@ -1,0 +1,3 @@
+{"sent_at":"2024-12-06T04:43:58.552Z","sdk":{"name":"sentry.javascript.electron","version":"4.4.0"}}
+{"type":"session"}
+{"sid":"a7ab01f8c34d41c88ef072e15142a9a2","init":true,"started":"2024-12-06T04:43:15.514Z","timestamp":"2024-12-06T04:43:58.552Z","status":"exited","errors":0,"duration":43.03800010681152,"attrs":{"release":"G-HUB@31.3.0\u0000","environment":"production"}}
