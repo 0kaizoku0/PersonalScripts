@@ -16,7 +16,7 @@ if exist "%nombre_archivo_log%" (
 
 
 echo Copiando archivos .m4a, .lrc ...
-robocopy "%origen%" "%destino%" *.m4a *.lrc *.m4v /S /XC /MT:20 /R:3 /W:1 /LOG+:robocopy.log /TEE
+robocopy "%origen%" "%destino%" *.m4a *.lrc *.m4v *.txt /S /XC /MT:20 /R:3 /W:1 /LOG+:robocopy.log /TEE
 
 REM /S                  indica a Robocopy que debe copiar los archivos de forma recursiva, incluyendo los subdirectorios.
 REM /MT:32              se establece para utilizar 32 hilos simultáneos durante la copia. Puedes ajustar estos valores según tus preferencias.
