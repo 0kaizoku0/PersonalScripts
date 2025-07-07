@@ -210,6 +210,9 @@ winget install --scope machine -e --id OBSProject.OBSStudio
 # Nvidia.Broadcast
 winget install --scope machine -e --id Nvidia.Broadcast
 
+# Media Player Classic MPC-HC
+winget install --scope machine -e --id clsid2.mpc-hc -i
+
 # CodecGuide.K-LiteCodecPack.Mega
 winget install --scope machine -e --id CodecGuide.K-LiteCodecPack.Mega
 
