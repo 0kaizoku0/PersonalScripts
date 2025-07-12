@@ -54,3 +54,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 iTunes/*.txt
+
+Audio/__pycache__/**
+Audio/build/**
+Audio/*.spec
+
