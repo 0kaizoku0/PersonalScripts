@@ -1,3 +1,18 @@
+# Clear command window
+Clear-Host
+# Kill processes related to G Hub
+$processesToKill = @("lghub", "lghub_agent", "lghub_system_tray", "lghub_updater")
+
+foreach ($name in $processesToKill) {
+    if (Get-Process -Name $name -ErrorAction SilentlyContinue) {
+        Stop-Process -Name $name -Force
+        Write-Host "Killed process: $name"
+    } else {
+        Write-Host "Process not running: $name"
+    }
+}
+
+
 # Define the destination folder path
 # $destinationFolder = $PSScriptRoot
 $sourceFolder1 = "$PSScriptRoot\Local\LGHUB"
