@@ -1,0 +1,99 @@
+I need admin rights for the next activities:
+- Share files/folders between my pc and remote benches
+- Running scripts with paths in C drive
+- Change of system environment variables for project specific needs, RN14, GM17, GM27, GM13
+- Install python packages
+- Run scripts from third party software, provided by ETAS for GM17
+- Upgrade drivers for personal keyboard, mouse, headset and pen tablet.
+
+If winget doesn't work
+
+$progressPreference = 'silentlyContinue'
+Write-Host "Installing WinGet PowerShell module from PSGallery..."
+Install-PackageProvider -Name NuGet -Force | Out-Null
+Install-Module -Name Microsoft.WinGet.Client -Force -Repository PSGallery | Out-Null
+Write-Host "Using Repair-WinGetPackageManager cmdlet to bootstrap WinGet..."
+Repair-WinGetPackageManager
+Write-Host "Done."
+
+
+winget install --scope machine -i -e --id xxxx
+-i → interactive
+-e → exact
+
+--accept-package-agreements     Used to accept the license agreement, and avoid the prompt.
+--accept-source-agreements      Used to accept the source license agreement, and avoid the prompt.
+--ignore-security-hash          Ignore the installer hash check failure. Not recommended.
+
+winget list --name PowerShell --upgrade-available
+winget install --scope machine -i -e --id Chocolatey.Chocolatey
+winget install --scope machine -i -e --id Chocolatey.ChocolateyGUI
+winget install --scope machine -i -e --id LamantineSoftware.StickyPassword
+winget install --scope machine -i -e --id Microsoft.WindowsTerminal
+winget install --scope machine -i -e --id Microsoft.PowerShell
+winget install --scope machine -i -e --id Google.Chrome
+winget install --scope machine -i -e --id Notepad++.Notepad++
+winget install --scope machine -i -e --id voidtools.Everything
+winget install --scope machine -i -e --id Microsoft.PowerToys
+winget install --scope machine -i -e --id Mozilla.Firefox
+winget install --scope machine -i -e --id Logitech.GHUB
+winget install --scope machine -i -e --id ShareX.ShareX
+winget install --scope machine -i -e --id Microsoft.VisualStudioCode
+winget install --scope machine -i -e --id Git.Git
+winget install --scope machine -i -e --id Git.Git -v 2.21.0
+# Last git with OpenSSL v1.1.1u is v2.41.0, works installing direct link
+# https://github.com/git-for-windows/git/releases?page=4
+# https://github.com/git-for-windows/git/releases/tag/v2.41.0.windows.1
+# https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-64-bit.exe
+winget install --scope machine -i -e --id Git.Git -v 2.41.0
+winget install --scope machine -i -e --id Microsoft.DotNet.DesktopRuntime.8 # Needed for Git Extensions
+winget install --scope machine -i -e --id GitExtensionsTeam.GitExtensions
+winget install --scope machine -i -e --id Python.Python.3.6 -v 3.6.2
+winget install --scope machine -i -e --id Piriform.CCleaner
+winget install --scope machine -i -e --id DuongDieuPhap.ImageGlass
+winget install --scope machine -i -e --id LLVM.LLVM # install version if available -v 15.0.7
+winget install --scope machine -i -e --id 7zip.7zip
+winget install --scope machine -i -e --id ALCPU.CoreTemp
+winget install --scope machine -i -e --id OBSProject.OBSStudio 
+winget install --scope machine -i -e --id Ookla.Speedtest.CLI
+
+# Install java 8.0.4110.25 maybe last number is different
+# Java SE Runtime Environment 8
+winget install -e --id Oracle.JavaRuntimeEnvironment
+
+winget install --scope machine -i -e --id rocksdanister.LivelyWallpaper
+winget install --scope machine -i -e --id winaero.tweaker
+
+TranslucentTB
+winget install -i -e --id 9PF4KZ2VN4W9
+
+
+winget install --scope machine -i -e --id CodecGuide.K-LiteCodecPack.Mega
+winget install --scope machine -i -e --id WiresharkFoundation.Wireshark
+winget install --scope machine -i -e --id mRemoteNG.mRemoteNG
+
+winget install --scope machine -i -e --id emoacht.Monitorian
+9NW33J738BL0 → monitorian
+
+
+winget install -e --id Git.Git -v 2.24.1.2
+winget install --scope machine -i -e --id Python.Python.3.6
+winget install --scope machine -i -e --id Python.Python.3.6 -v 3.6.8
+
+winget install --scope machine -i -e --id MHNexus.HxD
+
+Region To Share
+winget install --scope machine -i -e --id TomEnglert.RegionToShare
+winget install9N4066W2R5Q4
+
+Media Player Classic
+winget install --scope machine -e --id clsid2.mpc-hc -i
+
+winget install -e --id ALCPU.CoreTemp -i
+
+
+win+k proyeccion inalambrica
+
+netplwiz → userAccounts
+yFJ8*IN6#eD1
+yFJ8*IN6#eD1
