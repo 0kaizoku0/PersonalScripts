@@ -294,6 +294,8 @@ winget install --scope machine -e --id FinalWire.AIDA64.Extreme
 # winget install -e --id FinalWire.AIDA64.Extreme
 Write-Host "Install license" -ForegroundColor Yellow
 
+# Spek Analizador de audio
+winget install --scope machine -e --id AlexanderKojevnikov.Spek -i
 
 
 
