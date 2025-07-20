@@ -37,7 +37,7 @@
     "actionIcon": "",
     "parameters": [
      {
-      "parameterId": "scene_name",
+      "parameterId": "scene_resource_id",
       "errorMessage": "APPLET_SLOBS_SCENE_INVALID",
       "assignmentMessage": "APPLET_SLOBS_SCENE_SELECTION",
       "parameterType": "LIST",
@@ -52,9 +52,9 @@
     "actionIcon": "",
     "parameters": [
      {
-      "parameterId": "scene_name",
-      "errorMessage": "APPLET_SLOBS_SCENE_INVALID",
-      "assignmentMessage": "APPLET_SLOBS_SCENE_SELECTION",
+      "parameterId": "source_resource_id",
+      "errorMessage": "APPLET_SLOBS_SOURCE_INVALID",
+      "assignmentMessage": "APPLET_SLOBS_SOURCE_SELECTION",
       "parameterType": "LIST",
       "listSelection": [],
       "parameters": []
@@ -67,9 +67,9 @@
     "actionIcon": "",
     "parameters": [
      {
-      "parameterId": "scene_name",
-      "errorMessage": "APPLET_SLOBS_SCENE_INVALID",
-      "assignmentMessage": "APPLET_SLOBS_SCENE_SELECTION",
+      "parameterId": "source_resource_id",
+      "errorMessage": "APPLET_SLOBS_SOURCE_INVALID",
+      "assignmentMessage": "APPLET_SLOBS_SOURCE_SELECTION",
       "parameterType": "LIST",
       "listSelection": [],
       "parameters": []
@@ -82,9 +82,9 @@
     "actionIcon": "",
     "parameters": [
      {
-      "parameterId": "scene_name",
-      "errorMessage": "APPLET_SLOBS_SCENE_INVALID",
-      "assignmentMessage": "APPLET_SLOBS_SCENE_SELECTION",
+      "parameterId": "source_resource_id",
+      "errorMessage": "APPLET_SLOBS_SOURCE_INVALID",
+      "assignmentMessage": "APPLET_SLOBS_SOURCE_SELECTION",
       "parameterType": "LIST",
       "listSelection": [],
       "parameters": []
@@ -97,9 +97,9 @@
     "actionIcon": "",
     "parameters": [
      {
-      "parameterId": "scene_name",
-      "errorMessage": "APPLET_SLOBS_SCENE_INVALID",
-      "assignmentMessage": "APPLET_SLOBS_SCENE_SELECTION",
+      "parameterId": "mixer_resource_id",
+      "errorMessage": "APPLET_SLOBS_MIXER_INVALID",
+      "assignmentMessage": "APPLET_SLOBS_MIXER_SELECTION",
       "parameterType": "LIST",
       "listSelection": [],
       "parameters": []
@@ -112,9 +112,9 @@
     "actionIcon": "",
     "parameters": [
      {
-      "parameterId": "scene_name",
-      "errorMessage": "APPLET_SLOBS_SCENE_INVALID",
-      "assignmentMessage": "APPLET_SLOBS_SCENE_SELECTION",
+      "parameterId": "mixer_resource_id",
+      "errorMessage": "APPLET_SLOBS_MIXER_INVALID",
+      "assignmentMessage": "APPLET_SLOBS_MIXER_SELECTION",
       "parameterType": "LIST",
       "listSelection": [],
       "parameters": []
@@ -127,11 +127,41 @@
     "actionIcon": "",
     "parameters": [
      {
-      "parameterId": "scene_name",
-      "errorMessage": "APPLET_SLOBS_SCENE_INVALID",
-      "assignmentMessage": "APPLET_SLOBS_SCENE_SELECTION",
+      "parameterId": "mixer_resource_id",
+      "errorMessage": "APPLET_SLOBS_MIXER_INVALID",
+      "assignmentMessage": "APPLET_SLOBS_MIXER_SELECTION",
       "parameterType": "LIST",
       "listSelection": [],
+      "parameters": []
+     }
+    ]
+   },
+   {
+    "name": "APPLET_SLOBS_MIXER_SET_VOLUME",
+    "actionId": "slobs_mixer_set_volume",
+    "actionIcon": "",
+    "parameters": [
+     {
+      "parameterId": "mixer_resource_id",
+      "errorMessage": "APPLET_SLOBS_MIXER_INVALID",
+      "assignmentMessage": "APPLET_SLOBS_MIXER_SELECTION",
+      "parameterType": "LIST",
+      "listSelection": [],
+      "parameters": []
+     },
+     {
+      "parameterId": "volume",
+      "errorMessage": "APPLET_SLOBS_VOLUME_INVALID",
+      "assignmentMessage": "APPLET_SLOBS_VOLUME_SELECTION",
+      "parameterType": "NUMBER",
+      "listSelection": [],
+      "numberEntry": {
+       "value": 100,
+       "useMinValue": true,
+       "minValue": 0,
+       "useMaxValue": true,
+       "maxValue": 100
+      },
       "parameters": []
      }
     ]

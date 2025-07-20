@@ -7,7 +7,7 @@
 	"deviceModel-\u0014\u0015\u0016\u0017\u0018\u0019\u001a\u001b\u001c\u001d\u001e\u001f": "pro_x2_gaming_wireless_headset",
 	"deviceName-\u0014\u0015\u0016\u0017\u0018\u0019\u001a\u001b\u001c\u001d\u001e\u001f": "PRO X 2 LIGHTSPEED",
 	"backendConnectionEventSentToday": {
-		"date": "6-6",
+		"date": "6-17",
 		"count": 0
 	},
 	"primaryDisplaySizeKey": {
@@ -15,12 +15,12 @@
 		"width": 2560,
 		"height": 1440
 	},
-	"activeDeviceMenu-pro_x2_gaming_wireless_headset": "SAMPLER",
-	"activeDeviceMenu-g915": "LIGHTING",
+	"activeDeviceMenu-pro_x2_gaming_wireless_headset": "MICROPHONE_BLUEVOICE_2",
+	"activeDeviceMenu-g915": "ASSIGNMENTS",
 	"activeDisplaySizeKey": {
-		"activeDisplayId": 2300642138,
-		"scaleFactor": 1.5,
-		"width": 2560,
-		"height": 1440
+		"activeDisplayId": 3785350531,
+		"scaleFactor": 1,
+		"width": 1920,
+		"height": 1080
 	}
 }

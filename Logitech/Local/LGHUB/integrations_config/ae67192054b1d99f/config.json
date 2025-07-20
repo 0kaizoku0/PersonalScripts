@@ -184,23 +184,18 @@
             "parameters": []
            },
            {
-            "displayName": "M28U+Magnifier",
-            "value": "M28U+Magnifier",
+            "displayName": "Region2Share",
+            "value": "Region2Share",
             "parameters": []
            },
            {
-            "displayName": "Window Capture Full",
-            "value": "Window Capture Full",
+            "displayName": "Window Capture",
+            "value": "Window Capture",
             "parameters": []
            },
            {
-            "displayName": "Window Capture Crop",
-            "value": "Window Capture Crop",
-            "parameters": []
-           },
-           {
-            "displayName": "Text",
-            "value": "Text",
+            "displayName": "HPLaptop",
+            "value": "HPLaptop",
             "parameters": []
            }
           ],
@@ -240,23 +235,18 @@
             "parameters": []
            },
            {
-            "displayName": "M28U+Magnifier",
-            "value": "M28U+Magnifier",
+            "displayName": "Region2Share",
+            "value": "Region2Share",
             "parameters": []
            },
            {
-            "displayName": "Window Capture Full",
-            "value": "Window Capture Full",
+            "displayName": "Window Capture",
+            "value": "Window Capture",
             "parameters": []
            },
            {
-            "displayName": "Window Capture Crop",
-            "value": "Window Capture Crop",
-            "parameters": []
-           },
-           {
-            "displayName": "Text",
-            "value": "Text",
+            "displayName": "HPLaptop",
+            "value": "HPLaptop",
             "parameters": []
            }
           ],
@@ -296,23 +286,18 @@
             "parameters": []
            },
            {
-            "displayName": "M28U+Magnifier",
-            "value": "M28U+Magnifier",
+            "displayName": "Region2Share",
+            "value": "Region2Share",
             "parameters": []
            },
            {
-            "displayName": "Window Capture Full",
-            "value": "Window Capture Full",
+            "displayName": "Window Capture",
+            "value": "Window Capture",
             "parameters": []
            },
            {
-            "displayName": "Window Capture Crop",
-            "value": "Window Capture Crop",
-            "parameters": []
-           },
-           {
-            "displayName": "Text",
-            "value": "Text",
+            "displayName": "HPLaptop",
+            "value": "HPLaptop",
             "parameters": []
            }
           ],
