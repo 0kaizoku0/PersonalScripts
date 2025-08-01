@@ -1,0 +1,12 @@
+# github account
+Host github.com
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_ed25519_armando
+
+# git company
+Host github-am.geo.conti.de
+HostName github-am.geo.conti.de
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_ed25519
+
