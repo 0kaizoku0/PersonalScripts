@@ -297,6 +297,7 @@ Write-Host "Install license" -ForegroundColor Yellow
 # Spek Analizador de audio
 winget install --scope machine -e --id AlexanderKojevnikov.Spek -i
 
+winget install --scope machine -e --id LesFerch.WinSetView -i
 
 
 # Lively Wallpaper Metro
