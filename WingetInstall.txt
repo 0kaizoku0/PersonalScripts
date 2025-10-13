@@ -94,6 +94,9 @@ winget install --scope machine -e --id clsid2.mpc-hc -i
 
 winget install -e --id ALCPU.CoreTemp -i
 
+--scope machine -e --id BlueStack.BlueStacks -i
+
+
 
 win+k proyeccion inalambrica
 
