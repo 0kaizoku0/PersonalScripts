@@ -297,12 +297,15 @@ Write-Host "Install license" -ForegroundColor Yellow
 # Spek Analizador de audio
 winget install --scope machine -e --id AlexanderKojevnikov.Spek -i
 
+winget install --scope machine -e --id LesFerch.WinSetView -i
 
 
 # Lively Wallpaper Metro
 # winget install -e --id 9NKKGGS3VX8G
 
 winget install --scope machine -i -e --id Python.Python.3.6 -v 3.6.2
+
+winget install --scope machine -e --id Gyan.FFmpeg -i
 
 # Mem Reduct
 winget install --scope machine -e --id Henry++.MemReduct -i

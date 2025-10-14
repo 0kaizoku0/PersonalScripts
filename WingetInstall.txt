@@ -56,6 +56,9 @@ winget install --scope machine -i -e --id 7zip.7zip
 winget install --scope machine -i -e --id ALCPU.CoreTemp
 winget install --scope machine -i -e --id OBSProject.OBSStudio 
 winget install --scope machine -i -e --id Ookla.Speedtest.CLI
+winget install --scope machine -i -e --id NordSecurity.NordVPN
+
+
 
 # Install java 8.0.4110.25 maybe last number is different
 # Java SE Runtime Environment 8
@@ -93,6 +96,9 @@ Media Player Classic
 winget install --scope machine -e --id clsid2.mpc-hc -i
 
 winget install -e --id ALCPU.CoreTemp -i
+
+--scope machine -e --id BlueStack.BlueStacks -i
+
 
 
 win+k proyeccion inalambrica
