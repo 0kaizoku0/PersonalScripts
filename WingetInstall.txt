@@ -71,6 +71,9 @@ winget install -i -e --id 9PF4KZ2VN4W9
 winget install --scope machine -i -e --id CodecGuide.K-LiteCodecPack.Mega
 winget install --scope machine -i -e --id WiresharkFoundation.Wireshark
 winget install --scope machine -i -e --id mRemoteNG.mRemoteNG
+winget install --scope machine -e --id Henry++.MemReduct -i
+
+
 
 winget install --scope machine -i -e --id emoacht.Monitorian
 9NW33J738BL0 → monitorian
