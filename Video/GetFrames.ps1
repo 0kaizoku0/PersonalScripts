@@ -1,5 +1,5 @@
 $video01 = "C:\Users\FTW3\OneDrive\Animee\[df68] One Piece Season 01 [v2][1080p][x264][JPN][SUB]\One Piece - 0001 - I'm Luffy! The Man Who's Gonna Be King of the Pirates! [v2][1080p][x264][AC3][SUB]-df68.mkv"
-$video02 = "D:\Torrents\One Piece\01. Romance Dawn 1-3 [RLSP]\[RedLineSP] One Piece 1 [DVD 480p] [987092E4].avi"
+$video02 = "D:\Torrents\[Anime Time] One Piece - 0001 - I'm Luffy! The Man Who's Gonna Be King of the Pirates!.mkv"
 $outputFolder = "screenshots"
 Remove-Item -Path "$outputFolder\*" -Recurse -Force
 pause
@@ -12,8 +12,8 @@ New-Item -ItemType Directory -Force -Path $outputFolder
 # ffmpeg -i $video02 -vf "fps=1/100,scale=-1:2160" "$outputFolder\thumb_%04d_video02.png" -y
 
 
-# cada 30 segundos ($_ * 30) hasta 10 minutos 0..20
-$timestamps = 0..20 | ForEach-Object {
+# cada 30 segundos ($_ * 30) hasta 10 minutos (0..20)
+$timestamps = 0..40 | ForEach-Object {
     [TimeSpan]::FromSeconds($_ * 30).ToString("hh\:mm\:ss")
 }
 
