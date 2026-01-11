@@ -306,6 +306,7 @@ winget install --scope machine -e --id LesFerch.WinSetView -i
 winget install --scope machine -i -e --id Python.Python.3.6 -v 3.6.2
 
 winget install --scope machine -e --id Gyan.FFmpeg -i
+winget install --scope machine -e --id Aegisub.Aegisub -i
 
 # Mem Reduct
 winget install --scope machine -e --id Henry++.MemReduct -i
