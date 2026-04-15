@@ -1,8 +1,12 @@
+### Example constants for source and destination folders
+$DEFAULT_SOURCE = "C:\Example\SourceFolder"
+$DEFAULT_DEST = "C:\Example\DestinationFolder"
+
 param(
-    [Parameter(Mandatory=$true)]
-    [string]$SourceFolder,
-    [Parameter(Mandatory=$true)]
-    [string]$DestinationFolder
+    [Parameter(Mandatory=$false)]
+    [string]$SourceFolder = $DEFAULT_SOURCE,
+    [Parameter(Mandatory=$false)]
+    [string]$DestinationFolder = $DEFAULT_DEST
 )
 
 if (!(Test-Path $SourceFolder)) {
