@@ -1,3 +1,2 @@
-2026/06/24-13:07:20.206 77c0 Reusing MANIFEST C:\Users\uif23594\AppData\Roaming\G HUB\Local Storage\leveldb/MANIFEST-000001
-2026/06/24-13:07:20.222 77c0 Recovering log #3
-2026/06/24-13:07:20.223 77c0 Reusing old log C:\Users\uif23594\AppData\Roaming\G HUB\Local Storage\leveldb/000003.log 
+2026/07/12-18:52:51.461 4bb4 Creating DB C:\Users\uif23594\AppData\Roaming\G HUB\Local Storage\leveldb since it was missing.
+2026/07/12-18:52:51.474 4bb4 Reusing MANIFEST C:\Users\uif23594\AppData\Roaming\G HUB\Local Storage\leveldb/MANIFEST-000001
