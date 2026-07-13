@@ -105,7 +105,7 @@ winget install --scope machine -e --id REALiX.HWiNFO -i
 
 --scope machine -e --id BlueStack.BlueStacks -i
 
-winget install -e --id Google.Drive -i
+winget install --scope machine -e --id mRemoteNG.mRemoteNG -i
 
 win+k proyeccion inalambrica
 
